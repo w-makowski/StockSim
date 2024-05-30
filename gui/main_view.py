@@ -19,6 +19,8 @@ class MainView(QWidget):
 
         self.login_button = QPushButton("Login", self)
         self.signup_button = QPushButton("SignUp", self)
+        self.login_button.setMinimumWidth(55)
+        self.signup_button.setMinimumWidth(55)
 
         self.login_services_buttons_layout = QHBoxLayout()
         self.login_services_buttons_layout.addWidget(self.login_button)

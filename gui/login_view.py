@@ -3,7 +3,7 @@ from PySide6.QtWidgets import (QWidget,
                                QLineEdit,
                                QLabel,
                                QPushButton,
-                               QSizePolicy)
+                               QSizePolicy, QFrame)
 from PySide6.QtGui import QFont
 from PySide6.QtCore import Qt
 
@@ -15,6 +15,18 @@ class LoginView(QWidget):
 
         self.main_controller = main_controller
         self.controller = None
+
+        self.frame = QFrame(self)
+        self.frame.setFrameShape(QFrame.StyledPanel)
+        self.frame.setFrameShadow(QFrame.Raised)
+        self.frame.setStyleSheet("""
+                    QFrame {
+                        background-color: #212121;
+                        border-radius: 15px;
+                    }
+                """)
+        self.frame.setFixedSize(self.main_controller.main_window.width() / 2.2,
+                                self.main_controller.main_window.height() / 1.5)
 
         self.login_label_font = QFont()
         # self.app_name_font.setFamily("Verdana Pro Cond Semibold")
@@ -45,15 +57,21 @@ class LoginView(QWidget):
         self.back_button = QPushButton("Back", self)
         self.back_button.setMinimumWidth(120)
 
-        layout = QVBoxLayout()
-        layout.addWidget(self.login_label, alignment=Qt.AlignCenter)
-        layout.addSpacing(40)
-        layout.addWidget(self.username_input, alignment=Qt.AlignCenter)
-        layout.addWidget(self.password_input, alignment=Qt.AlignCenter)
-        layout.addWidget(self.feedback_label, alignment=Qt.AlignCenter)
+        frame_layout = QVBoxLayout()
+        frame_layout.addWidget(self.login_label, alignment=Qt.AlignCenter)
+        frame_layout.addSpacing(40)
+        frame_layout.addWidget(self.username_input, alignment=Qt.AlignCenter)
+        frame_layout.addWidget(self.password_input, alignment=Qt.AlignCenter)
+        frame_layout.addWidget(self.feedback_label, alignment=Qt.AlignCenter)
 
-        layout.addWidget(self.login_button, alignment=Qt.AlignCenter)
-        layout.addWidget(self.back_button, alignment=Qt.AlignCenter)
+        frame_layout.addWidget(self.login_button, alignment=Qt.AlignCenter)
+        frame_layout.addWidget(self.back_button, alignment=Qt.AlignCenter)
+        frame_layout.setAlignment(Qt.AlignCenter)
+
+        self.frame.setLayout(frame_layout)
+
+        layout = QVBoxLayout()
+        layout.addWidget(self.frame)
         layout.setAlignment(Qt.AlignCenter)
 
         self.setLayout(layout)

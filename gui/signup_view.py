@@ -1,5 +1,5 @@
 from PySide6.QtWidgets import (QWidget,
-                               QVBoxLayout, QGroupBox,
+                               QVBoxLayout, QGroupBox, QFrame,
                                QLineEdit,
                                QLabel,
                                QPushButton,
@@ -15,6 +15,18 @@ class SignupView(QWidget):
 
         self.main_controller = main_controller
         self.controller = None
+
+        self.frame = QFrame(self)
+        self.frame.setFrameShape(QFrame.StyledPanel)
+        self.frame.setFrameShadow(QFrame.Raised)
+        self.frame.setStyleSheet("""
+            QFrame {
+                background-color: #212121;
+                border-radius: 15px;
+            }
+        """)
+        self.frame.setFixedSize(self.main_controller.main_window.width()/2.2,
+                                self.main_controller.main_window.height()/1.5)
 
         self.signup_label_font = QFont()
         # self.app_name_font.setFamily("Verdana Pro Cond Semibold")
@@ -45,14 +57,20 @@ class SignupView(QWidget):
         self.back_button = QPushButton("Back", self)
         self.back_button.setMinimumWidth(120)
 
+        frame_layout = QVBoxLayout()
+        frame_layout.addWidget(self.signup_label, alignment=Qt.AlignCenter)
+        frame_layout.addSpacing(40)
+        frame_layout.addWidget(self.username_input, alignment=Qt.AlignCenter)
+        frame_layout.addWidget(self.password_input, alignment=Qt.AlignCenter)
+        frame_layout.addWidget(self.feedback_label, alignment=Qt.AlignCenter)
+        frame_layout.addWidget(self.signup_button, alignment=Qt.AlignCenter)
+        frame_layout.addWidget(self.back_button, alignment=Qt.AlignCenter)
+        frame_layout.setAlignment(Qt.AlignCenter)
+
+        self.frame.setLayout(frame_layout)
+
         layout = QVBoxLayout()
-        layout.addWidget(self.signup_label, alignment=Qt.AlignCenter)
-        layout.addSpacing(40)
-        layout.addWidget(self.username_input, alignment=Qt.AlignCenter)
-        layout.addWidget(self.password_input, alignment=Qt.AlignCenter)
-        layout.addWidget(self.feedback_label, alignment=Qt.AlignCenter)
-        layout.addWidget(self.signup_button, alignment=Qt.AlignCenter)
-        layout.addWidget(self.back_button, alignment=Qt.AlignCenter)
+        layout.addWidget(self.frame)
         layout.setAlignment(Qt.AlignCenter)
 
         self.setLayout(layout)
