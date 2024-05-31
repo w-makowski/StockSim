@@ -11,6 +11,7 @@ class LoginController:
         if user:
             # Transition to dashboard
             self.main_controller.handle_login_success(user)
+            self.__clear_view()
         else:
             # Error - login failed
             self.__clear_view()

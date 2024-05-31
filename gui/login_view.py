@@ -76,9 +76,6 @@ class LoginView(QWidget):
 
         self.setLayout(layout)
 
-    def __del__(self):
-        print("LoginView is being deleted")
-
     def set_login_controller(self, controller):
         self.controller = controller
 

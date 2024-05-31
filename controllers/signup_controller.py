@@ -14,6 +14,7 @@ class SignupController:
 
         if not self.validate_username(username):
             self.view.feedback_label.setText("Incorrect Username")
+            self.view.password_input.clear()
             return
 
         if not self.validate_password(password):
@@ -22,6 +23,7 @@ class SignupController:
             return
 
         if self.user_service.create_user(username, password):
+            self.__clear_view()
             self.view.feedback_label.setText("Sign-up successful!")
             self.main_controller.show_login_view()
         else:
@@ -61,3 +63,8 @@ class SignupController:
             return False
 
         return True
+
+    def __clear_view(self):
+        self.view.username_input.clear()
+        self.view.password_input.clear()
+        self.view.feedback_label.setText("")

@@ -63,8 +63,6 @@ class MainController:
     def show_signup_view(self):
         self.stack.setCurrentWidget(self.signup_view)
 
-        print(self.login_view)
-
     def show_dashboard_view(self):
         self.stack.setCurrentWidget(self.dashboard_view)
         self.dashboard_controller.update_dashboard(self.current_user)
