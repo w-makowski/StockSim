@@ -1,0 +1,2226 @@
+BRK-B	Berkshire Hathaway Inc.
+JPM	JPMorgan Chase & Co.
+V	Visa Inc.
+MA	Mastercard Incorporated
+BAC	Bank of America Corporation
+WFC	Wells Fargo & Company
+AXP	American Express Company
+GS	The Goldman Sachs Group, Inc.
+MS	Morgan Stanley
+C	Citigroup Inc.
+RY	Royal Bank of Canada
+BX	Blackstone Inc.
+SCHW	The Charles Schwab Corporation
+SPGI	S&P Global Inc.
+PGR	The Progressive Corporation
+BLK	BlackRock, Inc.
+CB	Chubb Limited
+TD	The Toronto-Dominion Bank
+MMC	Marsh & McLennan Companies, Inc.
+KKR	KKR & Co. Inc.
+ICE	Intercontinental Exchange, Inc.
+CME	CME Group Inc.
+MCO	Moody's Corporation
+APO	Apollo Global Management, Inc.
+PYPL	PayPal Holdings, Inc.
+USB	U.S. Bancorp
+PNC	The PNC Financial Services Group, Inc.
+AON	Aon plc
+NU	Nu Holdings Ltd.
+COIN	Coinbase Global, Inc.
+AJG	Arthur J. Gallagher & Co.
+IBKR	Interactive Brokers Group, Inc.
+COF	Capital One Financial Corporation
+AIG	American International Group, Inc.
+MET	MetLife, Inc.
+AFL	Aflac Incorporated
+TFC	Truist Financial Corporation
+TRV	The Travelers Companies, Inc.
+BK	The Bank of New York Mellon Corporation
+ALL	The Allstate Corporation
+ARES	Ares Management Corporation
+AMP	Ameriprise Financial, Inc.
+PRU	Prudential Financial, Inc.
+MSCI	MSCI Inc.
+ACGL	Arch Capital Group Ltd.
+NDAQ	Nasdaq, Inc.
+DFS	Discover Financial Services
+HIG	The Hartford Financial Services Group, Inc.
+RKT	Rocket Companies, Inc.
+TROW	T. Rowe Price Group, Inc.
+WTW	Willis Towers Watson Public Limited Company
+OWL	Blue Owl Capital Inc.
+FITB	Fifth Third Bancorp
+BRO	Brown & Brown, Inc.
+RJF	Raymond James Financial, Inc.
+MTB	M&T Bank Corporation
+FCNCA	First Citizens BancShares, Inc.
+TW	Tradeweb Markets Inc.
+STT	State Street Corporation
+LPLA	LPL Financial Holdings Inc.
+MKL	Markel Group Inc.
+WRB	W. R. Berkley Corporation
+HBAN	Huntington Bancshares Incorporated
+PFG	Principal Financial Group, Inc.
+ERIE	Erie Indemnity Company
+CINF	Cincinnati Financial Corporation
+HOOD	Robinhood Markets, Inc.
+CBOE	Cboe Global Markets, Inc.
+CRBG	Corebridge Financial, Inc.
+RF	Regions Financial Corporation
+SYF	Synchrony Financial
+NTRS	Northern Trust Corporation
+L	Loews Corporation
+EG	Everest Group, Ltd.
+ALLY	Ally Financial Inc.
+CFG	Citizens Financial Group, Inc.
+CG	The Carlyle Group Inc.
+FDS	FactSet Research Systems Inc.
+TPG	TPG Inc.
+RYAN	Ryan Specialty Holdings, Inc.
+RGA	Reinsurance Group of America, Incorporated
+FNF	Fidelity National Financial, Inc.
+KEY	KeyCorp
+EQH	Equitable Holdings, Inc.
+ARCC	Ares Capital Corporation
+BAP	Credicorp Ltd.
+CNA	CNA Financial Corporation
+BEN	Franklin Resources, Inc.
+MORN	Morningstar, Inc.
+RNR	RenaissanceRe Holdings Ltd.
+UWMC	UWM Holdings Corporation
+AFG	American Financial Group, Inc.
+XP	XP Inc.
+EWBC	East West Bancorp, Inc.
+UNM	Unum Group
+JEF	Jefferies Financial Group Inc.
+HLI	Houlihan Lokey, Inc.
+AIZ	Assurant, Inc.
+KNSL	Kinsale Capital Group, Inc.
+SEIC	SEI Investments Company
+FHN	First Horizon Corporation
+ORI	Old Republic International Corporation
+SF	Stifel Financial Corp.
+EVR	Evercore Inc.
+PRI	Primerica, Inc.
+MKTX	MarketAxess Holdings Inc.
+GL	Globe Life Inc.
+VOYA	Voya Financial, Inc.
+WBS	Webster Financial Corporation
+SOFI	SoFi Technologies, Inc.
+CBSH	Commerce Bancshares, Inc.
+IVZ	Invesco Ltd.
+HLNE	Hamilton Lane Incorporated
+WAL	Western Alliance Bancorporation
+CMA	Comerica Incorporated
+RLI	RLI Corp.
+OBDC	Blue Owl Capital Corporation
+CFR	Cullen/Frost Bankers, Inc.
+BPOP	Popular, Inc.
+ZION	Zions Bancorporation, National Association
+AXS	AXIS Capital Holdings Limited
+PNFP	Pinnacle Financial Partners, Inc.
+WTFC	Wintrust Financial Corporation
+BXSL	Blackstone Secured Lending Fund
+ESNT	Essent Group Ltd.
+PB	Prosperity Bancshares, Inc.
+CACC	Credit Acceptance Corporation
+SIGI	Selective Insurance Group, Inc.
+PDI	PIMCO Dynamic Income Fund
+SSB	SouthState Corporation
+OMF	OneMain Holdings, Inc.
+BOKF	BOK Financial Corporation
+SNV	Synovus Financial Corp.
+JXN	Jackson Financial Inc.
+FAF	First American Financial Corporation
+FSK	FS KKR Capital Corp.
+LNC	Lincoln National Corporation
+MTG	MGIC Investment Corporation
+MARA	Marathon Digital Holdings, Inc.
+ONB	Old National Bancorp
+COOP	Mr. Cooper Group Inc.
+JHG	Janus Henderson Group plc
+FCFS	FirstCash Holdings, Inc.
+CADE	Cadence Bank
+AMG	Affiliated Managers Group, Inc.
+FG	F&G Annuities & Life, Inc.
+FNB	F.N.B. Corporation
+PSLV	Sprott Physical Silver Trust
+ACT	Enact Holdings, Inc.
+OZK	Bank OZK
+THG	The Hanover Insurance Group, Inc.
+STEP	StepStone Group LP
+SLM	SLM Corporation
+HOMB	Home Bancshares, Inc. (Conway, AR)
+RDN	Radian Group Inc.
+WTM	White Mountains Insurance Group, Ltd.
+PFSI	PennyMac Financial Services, Inc.
+ESGR	Enstar Group Limited
+FRHC	Freedom Holding Corp.
+UBSI	United Bankshares, Inc.
+WU	The Western Union Company
+FFIN	First Financial Bankshares, Inc.
+DNB	Dun & Bradstreet Holdings, Inc.
+GBCI	Glacier Bancorp, Inc.
+AGO	Assured Guaranty Ltd.
+PJT	PJT Partners Inc.
+BGC	BGC Group, Inc.
+MAIN	Main Street Capital Corporation
+CRVL	CorVel Corporation
+HWC	Hancock Whitney Corporation
+COLB	Columbia Banking System, Inc.
+UMBF	UMB Financial Corporation
+MC	Moelis & Company
+AB	AllianceBernstein Holding L.P.
+KMPR	Kemper Corporation
+NNI	Nelnet, Inc.
+TFSL	TFS Financial Corporation
+CLSK	CleanSpark, Inc.
+VLY	Valley National Bancorp
+LAZ	Lazard, Inc.
+CNS	Cohen & Steers, Inc.
+IBOC	International Bancshares Corporation
+VIRT	Virtu Financial, Inc.
+ABCB	Ameris Bancorp
+SFBS	ServisFirst Bancshares, Inc.
+VCTR	Victory Capital Holdings, Inc.
+NEA	Nuveen AMT-Free Quality Municipal Income Fund
+HGTY	Hagerty, Inc.
+WD	Walker & Dunlop, Inc.
+ASB	Associated Banc-Corp
+HTGC	Hercules Capital, Inc.
+PIPR	Piper Sandler Companies
+DNP	DNP Select Income Fund Inc.
+BUR	Burford Capital Limited
+CNO	CNO Financial Group, Inc.
+MCY	Mercury General Corporation
+APAM	Artisan Partners Asset Management Inc.
+AX	Axos Financial, Inc.
+FULT	Fulton Financial Corporation
+UCBI	United Community Banks, Inc.
+FBP	First BanCorp.
+AUB	Atlantic Union Bankshares Corporation
+BANF	BancFirst Corporation
+GBDC	Golub Capital BDC, Inc.
+RIOT	Riot Platforms, Inc.
+TCBI	Texas Capital Bancshares, Inc.
+FHI	Federated Hermes, Inc.
+FIBK	First Interstate BancSystem, Inc.
+BHF	Brighthouse Financial, Inc.
+GNW	Genworth Financial, Inc.
+CATY	Cathay General Bancorp
+INTR	Inter & Co, Inc.
+NMIH	NMI Holdings, Inc.
+WSFS	WSFS Financial Corporation
+NAD	Nuveen Quality Municipal Income Fund
+CSQ	Calamos Strategic Total Return Fund
+FHB	First Hawaiian, Inc.
+AMK	AssetMark Financial Holdings, Inc.
+ADX	Adams Diversified Equity Fund, Inc.
+EXG	Eaton Vance Tax-Managed Global Diversified Equity Income Fund
+NVG	Nuveen AMT-Free Municipal Credit Income Fund
+GSHD	Goosehead Insurance, Inc
+EBC	Eastern Bankshares, Inc.
+CBU	Community Financial System, Inc.
+SNEX	StoneX Group Inc.
+PSEC	Prospect Capital Corporation
+BANC	Banc of California, Inc.
+CVBF	CVB Financial Corp.
+NZF	Nuveen Municipal Credit Income Fund
+BOH	Bank of Hawaii Corporation
+JPC	Nuveen Preferred & Income Opportunities Fund
+UTF	Cohen & Steers Infrastructure Fund, Inc
+WAFD	WaFd, Inc
+BWIN	The Baldwin Insurance Group, Inc.
+UTG	Reaves Utility Income Fund
+SPNT	SiriusPoint Ltd.
+PRK	Park National Corporation
+PTY	PIMCO Corporate & Income Opportunity Fund
+SFNC	Simmons First National Corporation
+UPST	Upstart Holdings, Inc.
+INDB	Independent Bank Corp.
+ETY	Eaton Vance Tax-Managed Diversified Equity Income Fund
+BKU	BankUnited, Inc.
+PPBI	Pacific Premier Bancorp, Inc.
+FFBC	First Financial Bancorp.
+PLMR	Palomar Holdings, Inc.
+BFH	Bread Financial Holdings, Inc.
+MSDL	
+TSLX	Sixth Street Specialty Lending, Inc.
+TOWN	TowneBank
+OBDE	Blue Owl Capital Corporation III
+GDV	The Gabelli Dividend & Income Trust
+SBCF	Seacoast Banking Corporation of Florida
+HTH	Hilltop Holdings Inc.
+PAX	Patria Investments Limited
+FIHL	Fidelis Insurance Holdings Limited
+FRME	First Merchants Corporation
+HG	Hamilton Insurance Group, Ltd.
+GOF	Guggenheim Strategic Opportunities Fund
+IBTX	Independent Bank Group, Inc.
+HTLF	Heartland Financial USA, Inc.
+GCMG	GCM Grosvenor Inc.
+PFS	Provident Financial Services, Inc.
+USA	Liberty All-Star Equity Fund
+MBIN	Merchants Bancorp
+ECAT	BlackRock ESG Capital Allocation Term Trust
+DFIN	Donnelley Financial Solutions, Inc.
+CLM	Cornerstone Strategic Value Fund, Inc.
+TRMK	Trustmark Corporation
+NWLI	National Western Life Group, Inc.
+BCAT	BlackRock Capital Allocation Term Trust
+NUV	Nuveen Municipal Value Fund, Inc.
+NBTB	NBT Bancorp Inc.
+OFG	OFG Bancorp
+EVT	Eaton Vance Tax-Advantaged Dividend Income Fund
+STC	Stewart Information Services Corporation
+TBBK	The Bancorp, Inc.
+FBK	FB Financial Corporation
+TFIN	Triumph Financial, Inc.
+GSBD	Goldman Sachs BDC, Inc.
+RNST	Renasant Corporation
+RVT	Royce Small-Cap Trust, Inc.
+ENVA	Enova International, Inc.
+NAVI	Navient Corporation
+KYN	Kayne Anderson Energy Infrastructure Fund, Inc.
+BIGZ	BlackRock Innovation and Growth Term Trust
+GAB	The Gabelli Equity Trust Inc.
+WSBC	WesBanco, Inc.
+VRTS	Virtus Investment Partners, Inc.
+BMEZ	BlackRock Health Sciences Term Trust
+BANR	Banner Corporation
+OCSL	Oaktree Specialty Lending Corporation
+NAC	Nuveen California Quality Municipal Income Fund
+LKFN	Lakeland Financial Corporation
+NTB	The Bank of N.T. Butterfield & Son Limited
+LOB	Live Oak Bancshares, Inc.
+BDJ	BlackRock Enhanced Equity Dividend Trust
+RQI	Cohen & Steers Quality Income Realty Fund, Inc.
+ETV	Eaton Vance Tax-Managed Buy-Write Opportunities Fund
+CLBK	Columbia Financial, Inc.
+WT	WisdomTree, Inc.
+CHCO	City Holding Company
+PDO	Pimco Dynamic Income Opportunities Fund
+BSTZ	BlackRock Science and Technology Term Trust
+SKWD	Skyward Specialty Insurance Group, Inc.
+MRX	Marex Group plc
+PWP	Perella Weinberg Partners
+EFSC	Enterprise Financial Services Corp
+CUBI	Customers Bancorp, Inc.
+STEW	SRH Total Return Fund, Inc.
+HMN	Horace Mann Educators Corporation
+NWBI	Northwest Bancshares, Inc.
+ETG	Eaton Vance Tax-Advantaged Global Dividend Income Fund
+HYT	BlackRock Corporate High Yield Fund, Inc.
+FCF	First Commonwealth Financial Corporation
+NBHC	National Bank Holdings Corporation
+BTT	Blackrock Municipal 2030 Target Term Trust
+SYBT	Stock Yards Bancorp, Inc.
+BXMX	Nuveen S&P 500 Buy-Write Income Fund
+OXLC	Oxford Lane Capital Corp.
+CASH	Pathward Financial, Inc.
+NMFC	New Mountain Finance Corporation
+WABC	Westamerica Bancorporation
+FBNC	First Bancorp
+DSL	DoubleLine Income Solutions Fund
+BUSE	First Busey Corporation
+HOPE	Hope Bancorp, Inc.
+TCBK	TriCo Bancshares
+SRCE	1st Source Corporation
+TRUP	Trupanion, Inc.
+BST	BlackRock Science and Technology Trust
+STBA	S&T Bancorp, Inc.
+CET	Central Securities Corporation
+STEL	Stellar Bancorp, Inc.
+NIC	Nicolet Bankshares, Inc.
+QQQX	Nuveen Nasdaq 100 Dynamic Overwrite Fund
+JFR	Nuveen Floating Rate Income Fund
+LMND	Lemonade, Inc.
+NFJ	Virtus Dividend, Interest & Premium Strategy Fund
+CSWC	Capital Southwest Corporation
+SAFT	Safety Insurance Group, Inc.
+IREN	Iris Energy Limited
+EVV	Eaton Vance Limited Duration Income Fund
+GAM	General American Investors Company, Inc.
+NMZ	Nuveen Municipal High Income Opportunity Fund
+VBTX	Veritex Holdings, Inc.
+BLX	Banco Latinoamericano de Comercio Exterior, S. A.
+BCSF	Bain Capital Specialty Finance, Inc.
+EOS	Eaton Vance Enhanced Equity Income Fund II
+FPF	First Trust Intermediate Duration Preferred & Income Fund
+EIG	Employers Holdings, Inc.
+PTA	Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund
+BBDC	Barings BDC, Inc.
+SASR	Sandy Spring Bancorp, Inc.
+MFIC	MidCap Financial Investment Corporation
+ECPG	Encore Capital Group, Inc.
+PEBO	Peoples Bancorp Inc.
+BY	Byline Bancorp, Inc.
+MUC	BlackRock MuniHoldings California Quality Fund, Inc.
+HCI	HCI Group, Inc.
+PFBC	Preferred Bank
+RBCAA	Republic Bancorp, Inc.
+LC	LendingClub Corporation
+BTZ	BlackRock Credit Allocation Income Trust
+CVII	Churchill Capital Corp VII
+BBN	BlackRock Taxable Municipal Bond Trust
+NCDL	Nuveen Churchill Direct Lending Corp.
+OBK	Origin Bancorp, Inc.
+RNP	Cohen & Steers REIT and Preferred Income Fund, Inc.
+BHLB	Berkshire Hills Bancorp, Inc.
+QCRH	QCR Holdings, Inc.
+TCPC	BlackRock TCP Capital Corp.
+PDX	PIMCO Dynamic Income Strategy Fund
+GABC	German American Bancorp, Inc.
+BRDG	Bridge Investment Group Holdings Inc.
+NRK	Nuveen New York AMT-Free Quality Municipal Income Fund
+AWF	AllianceBernstein Global High Income Fund
+PX	P10, Inc.
+CGBD	Carlyle Secured Lending, Inc.
+SLRC	SLR Investment Corp.
+GHLD	Guild Holdings Company
+ETW	Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund
+OCFC	OceanFirst Financial Corp.
+LBAI	Lakeland Bancorp, Inc.
+ECC	Eagle Point Credit Company Inc.
+AMRK	A-Mark Precious Metals, Inc.
+AOD	Abrdn Total Dynamic Dividend Fund
+MUI	BlackRock Municipal Income Fund, Inc.
+MQY	BlackRock MuniYield Quality Fund, Inc.
+CHI	Calamos Convertible Opportunities and Income Fund
+CHY	Calamos Convertible and High Income Fund
+CII	BlackRock Enhanced Capital and Income Fund, Inc.
+PRAA	PRA Group, Inc.
+CRF	Cornerstone Total Return Fund, Inc.
+AMSF	AMERISAFE, Inc.
+HQH	Abrdn Healthcare Investors
+BSIG	BrightSphere Investment Group Inc.
+BFC	Bank First Corporation
+THQ	Abrdn Healthcare Opportunities Fund
+SBSI	Southside Bancshares, Inc.
+AMBC	Ambac Financial Group, Inc.
+FBMS	The First Bancshares, Inc.
+BCX	Blackrock Resources & Commodities Strategy Trust
+HUT	Hut 8 Corp.
+RILY	B. Riley Financial, Inc.
+ROOT	Root, Inc.
+AMAL	Amalgamated Financial Corp.
+LPRO	Open Lending Corporation
+BRKL	Brookline Bancorp, Inc.
+PFLT	PennantPark Floating Rate Capital Ltd.
+CTBI	Community Trust Bancorp, Inc.
+FMBH	First Mid Bancshares, Inc.
+JQC	Nuveen Credit Strategies Income Fund
+WRLD	World Acceptance Corporation
+DLY	DoubleLine Yield Opportunities Fund
+EOI	Eaton Vance Enhanced Equity Income Fund
+BHRB	Burke & Herbert Financial Services Corp.
+AMTB	Amerant Bancorp Inc.
+TRIN	Trinity Capital Inc.
+AC	Associated Capital Group, Inc.
+PRA	ProAssurance Corporation
+EIM	Eaton Vance Municipal Bond Fund
+HTD	John Hancock Tax-Advantaged Dividend Income Fund
+ABL	Abacus Life, Inc.
+MYI	BlackRock MuniYield Quality Fund III, Inc.
+DCOM	Dime Community Bancshares, Inc.
+CNOB	ConnectOne Bancorp, Inc.
+PCN	PIMCO Corporate & Income Strategy Fund
+RA	Brookfield Real Assets Income Fund Inc.
+PFC	Premier Financial Corp.
+FFC	Flaherty & Crumrine Preferred Securities Income Fund Inc.
+CFFN	Capitol Federal Financial, Inc.
+AIO	Virtus Artificial Intelligence & Technology Opportunities Fund
+TMP	Tompkins Financial Corporation
+CCAP	Crescent Capital BDC, Inc.
+CION	CION Investment Corporation
+NXP	Nuveen Select Tax-Free Income Portfolio
+AACT	Ares Acquisition Corporation II
+IGIC	International General Insurance Holdings Ltd.
+OSBC	Old Second Bancorp, Inc.
+NBBK	NB Bancorp, Inc.
+CFB	CrossFirst Bankshares, Inc.
+IFN	The India Fund, Inc.
+NDMO	Nuveen Dynamic Municipal Opportunities Fund
+TIPT	Tiptree Inc.
+BOE	BlackRock Enhanced Global Dividend Trust
+UVSP	Univest Financial Corporation
+FCBC	First Community Bankshares, Inc.
+PFN	PIMCO Income Strategy Fund II
+FDUS	Fidus Investment Corporation
+HFWA	Heritage Financial Corporation
+CEM	ClearBridge MLP and Midstream Fund Inc
+MCBS	MetroCity Bankshares, Inc.
+NIE	Virtus Equity & Convertible Income Fund
+MBWM	Mercantile Bank Corporation
+HBT	HBT Financial, Inc.
+GSBC	Great Southern Bancorp, Inc.
+MHD	BlackRock MuniHoldings Fund, Inc.
+VEL	Velocity Financial, Inc.
+PEO	Adams Natural Resources Fund, Inc.
+CCD	Calamos Dynamic Convertible and Income Fund
+CCB	Coastal Financial Corporation
+MUJ	BlackRock MuniHoldings New Jersey Quality Fund, Inc.
+LDP	Cohen & Steers Limited Duration Preferred and Income Fund, Inc.
+EZPW	EZCORP, Inc.
+BHK	BlackRock Core Bond Trust
+ETJ	Eaton Vance Risk-Managed Diversified Equity Income Fund
+NMCO	Nuveen Municipal Credit Opportunities Fund
+PML	PIMCO Municipal Income Fund II
+TREE	LendingTree, Inc.
+UVE	Universal Insurance Holdings, Inc.
+PDT	John Hancock Premium Dividend Fund
+ACIC	American Coastal Insurance Corporation
+UFCS	United Fire Group, Inc.
+IIM	Invesco Value Municipal Income Trust
+BIT	BlackRock Multi-Sector Income Trust
+BME	BlackRock Health Sciences Trust
+VINP	Vinci Partners Investments Ltd.
+BTO	John Hancock Financial Opportunities Fund
+BGY	BlackRock Enhanced International Dividend Trust
+CPF	Central Pacific Financial Corp.
+BFST	Business First Bancshares, Inc.
+NKX	Nuveen California AMT-Free Quality Municipal Income Fund
+EGBN	Eagle Bancorp, Inc.
+EMD	Western Asset Emerging Markets Debt Fund Inc.
+MMU	Western Asset Managed Municipals Fund Inc.
+GCBC	Greene County Bancorp, Inc.
+EMO	ClearBridge Energy Midstream Opportunity Fund Inc
+HBNC	Horizon Bancorp, Inc.
+VKQ	Invesco Municipal Trust
+PSBD	Palmer Square Capital BDC Inc.
+BGB	Blackstone Strategic Credit 2027 Term Fund
+TRST	TrustCo Bank Corp NY
+STK	Columbia Seligman Premium Technology Growth Fund
+GDOT	Green Dot Corporation
+WIW	Western Asset Inflation-Linked Opportunities & Income Fund
+CATC	Cambridge Bancorp
+IBCP	Independent Bank Corporation
+FTHY	First Trust High Yield Opportunities 2027 Term Fund
+GAIN	Gladstone Investment Corporation
+EQBK	Equity Bancshares, Inc.
+DSU	BlackRock Debt Strategies Fund, Inc.
+DIAX	Nuveen Dow 30 Dynamic Overwrite Fund
+BUI	BlackRock Utilities, Infrastructure & Power Opportunities Trust
+HTBK	Heritage Commerce Corp
+BLE	BlackRock Municipal Income Trust II
+HPS	John Hancock Preferred Income Fund III
+BLW	BlackRock Limited Duration Income Trust
+THW	Abrdn World Healthcare Fund
+FSBC	Five Star Bancorp
+PNNT	PennantPark Investment Corporation
+MSBI	Midland States Bancorp, Inc.
+GLAD	Gladstone Capital Corporation
+MYD	BlackRock MuniYield Fund, Inc.
+GHY	PGIM Global High Yield Fund, Inc
+MCBC	Macatawa Bank Corporation
+RMT	Royce Micro-Cap Trust, Inc.
+HTBI	HomeTrust Bancshares, Inc.
+HAFC	Hanmi Financial Corporation
+SMBC	Southern Missouri Bancorp, Inc.
+NXJ	Nuveen New Jersey Quality Municipal Income Fund
+CAC	Camden National Corporation
+RWAY	Runway Growth Finance Corp.
+OPY	Oppenheimer Holdings Inc.
+MCB	Metropolitan Bank Holding Corp.
+GLRE	Greenlight Capital Re, Ltd.
+HONE	HarborOne Bancorp, Inc.
+GUT	The Gabelli Utility Trust
+CCBG	Capital City Bank Group, Inc.
+FRA	BlackRock Floating Rate Income Strategies Fund, Inc.
+FMNB	Farmers National Banc Corp.
+SEZL	Sezzle Inc.
+MMD	MainStay MacKay DefinedTerm Municipal Opportunities Fund
+WASH	Washington Trust Bancorp, Inc.
+SPFI	South Plains Financial, Inc.
+NBN	Northeast Bank
+HPI	John Hancock Preferred Income Fund
+JPI	Nuveen Preferred and Income Term Fund
+ANSC	Agriculture & Natural Solutions Acquisition Corporation
+CRD-A	Crawford & Company
+MVF	BlackRock MuniVest Fund, Inc.
+DGICA	Donegal Group Inc.
+NBB	Nuveen Taxable Municipal Income Fund
+NML	Neuberger Berman Energy Infrastructure and Income Fund Inc.
+THFF	First Financial Corporation
+BFK	BlackRock Municipal Income Trust
+GBLI	Global Indemnity Group, LLC
+HIPO	Hippo Holdings Inc.
+NQP	Nuveen Pennsylvania Quality Municipal Income Fund
+CHW	Calamos Global Dynamic Income Fund
+HFRO	Highland Funds I - Highland Opportunities and Income Fund
+MUA	BlackRock MuniAssets Fund, Inc.
+AROW	Arrow Financial Corporation
+DHIL	Diamond Hill Investment Group, Inc.
+ISD	PGIM High Yield Bond Fund, Inc.
+AVK	Advent Convertible and Income Fund
+ETO	Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund
+CCNE	CNB Financial Corporation
+HRZN	Horizon Technology Finance Corporation
+IGD	Voya Global Equity Dividend and Premium Opportunity Fund
+NETD	Nabors Energy Transition Corp. II
+FSD	First Trust High Income Long/Short Fund
+ETB	Eaton Vance Tax-Managed Buy-Write Income Fund
+BHB	Bar Harbor Bankshares
+EVN	Eaton Vance Municipal Income Trust
+SMBK	SmartFinancial, Inc.
+MYN	BlackRock MuniYield New York Quality Fund, Inc.
+NFBK	Northfield Bancorp, Inc. (Staten Island, NY)
+XFLT	XAI Octagon Floating Rate & Alternative Income Trust
+EAD	Wells Fargo Advantage Funds - Allspring Income Opportunities Fund
+PGC	Peapack-Gladstone Financial Corporation
+EFR	Eaton Vance Senior Floating-Rate Trust
+DFP	Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.
+ALRS	Alerus Financial Corporation
+GBAB	Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust
+DPG	Duff & Phelps Utility and Infrastructure Fund Inc.
+VKI	Invesco Advantage Municipal Income Trust II
+ATLC	Atlanticus Holdings Corporation
+FFA	First Trust Enhanced Equity Income Fund
+ESQ	Esquire Financial Holdings, Inc.
+SHBI	Shore Bancshares, Inc.
+HIFS	Hingham Institution for Savings
+SDHY	PGIM Short Duration High Yield Opportunities Fund
+FFIC	Flushing Financial Corporation
+LEO	BNY Mellon Strategic Municipals, Inc.
+HPF	John Hancock Preferred Income Fund II
+KTF	DWS Municipal Income Trust
+KRNY	Kearny Financial Corp.
+BGR	BlackRock Energy and Resources Trust
+HQL	Abrdn Life Sciences Investors
+KIO	KKR Income Opportunities Fund
+RRAC	Rigel Resource Acquisition Corp.
+VALU	Value Line, Inc.
+TYG	Tortoise Energy Infrastructure Corporation
+MPB	Mid Penn Bancorp, Inc.
+ASA	ASA Gold and Precious Metals Limited
+TPVG	TriplePoint Venture Growth BDC Corp.
+MCI	Barings Corporate Investors
+GHI	Greystone Housing Impact Investors LP
+SOR	Source Capital, Inc.
+EFT	Eaton Vance Floating-Rate Income Trust
+ACP	Abrdn Income Credit Strategies Fund
+BFZ	BlackRock California Municipal Income Trust
+ITIC	Investors Title Company
+NEWT	NewtekOne, Inc.
+RBB	RBB Bancorp
+MOFG	MidWestOne Financial Group, Inc.
+GNTY	Guaranty Bancshares, Inc.
+SCM	Stellus Capital Investment Corporation
+FFWM	First Foundation Inc.
+RFMZ	RiverNorth Flexible Municipal Income Fund II, Inc.
+ARDC	Ares Dynamic Credit Allocation Fund, Inc.
+PFL	PIMCO Income Strategy Fund
+IPXX	Inflection Point Acquisition Corp. II
+NAN	Nuveen New York Quality Municipal Income Fund
+CWBC	Community West Bancshares
+SAR	Saratoga Investment Corp.
+PMO	Putnam Municipal Opportunities Trust
+FOF	Cohen & Steers Closed-End Opportunity Fund, Inc.
+NRIM	Northrim BanCorp, Inc.
+MIY	BlackRock MuniYield Michigan Quality Fund, Inc.
+MHN	BlackRock MuniHoldings New York Quality Fund, Inc.
+NODK	NI Holdings, Inc.
+JRI	Nuveen Real Asset Income and Growth Fund
+RRBI	Red River Bancshares, Inc.
+FINS	Angel Oak Financial Strategies Income Term Trust
+EBTC	Enterprise Bancorp, Inc.
+HYAC	Haymaker Acquisition Corp. 4
+BRW	Saba Capital Income & Opportunities Fund
+ASG	Liberty All-Star Growth Fund, Inc.
+AFB	AllianceBernstein National Municipal Income Fund, Inc.
+BWB	Bridgewater Bancshares, Inc.
+BSRR	Sierra Bancorp
+FRBA	First Bank
+NBH	Neuberger Berman Municipal Fund Inc.
+JWSM	Jaws Mustang Acquisition Corporation
+RFI	Cohen & Steers Total Return Realty Fund, Inc.
+FMAO	Farmers & Merchants Bancorp, Inc.
+CPZ	Calamos Long/Short Equity & Dynamic Income Term Trust
+WHF	WhiteHorse Finance, Inc.
+JRVR	James River Group Holdings, Ltd.
+PMTS	CPI Card Group Inc.
+HBCP	Home Bancorp, Inc.
+CTR	ClearBridge MLP and Midstream Total Return Fund Inc.
+CARE	Carter Bankshares, Inc.
+WTBA	West Bancorporation, Inc.
+JGH	Nuveen Global High Income Fund
+BGT	BlackRock Floating Rate Income Trust
+RMM	Rivernorth Managed Duration Municipal Income Fund Inc.
+MBI	MBIA Inc.
+TCBX	Third Coast Bancshares, Inc.
+TWN	The Taiwan Fund, Inc.
+BGH	Barings Global Short Duration High Yield Fund
+BYM	BlackRock Municipal Income Quality Trust
+SPXX	Nuveen S&P 500 Dynamic Overwrite Fund
+PMM	Putnam Managed Municipal Income Trust
+UNTY	Unity Bancorp, Inc.
+FBIZ	First Business Financial Services, Inc.
+DSM	BNY Mellon Strategic Municipal Bond Fund, Inc.
+ORRF	Orrstown Financial Services, Inc.
+RCS	PIMCO Strategic Income Fund, Inc.
+NCA	Nuveen California Municipal Value Fund
+CBNK	Capital Bancorp, Inc.
+BSVN	Bank7 Corp.
+OBT	Orange County Bancorp, Inc.
+PFIS	Peoples Financial Services Corp.
+RM	Regional Management Corp.
+FCT	First Trust Senior Floating Rate Income Fund II
+FISI	Financial Institutions, Inc.
+ACNB	ACNB Corporation
+CZNC	Citizens & Northern Corporation
+FNLC	The First Bancorp, Inc.
+FDBC	Fidelity D & D Bancorp, Inc.
+MXF	The Mexico Fund, Inc.
+MCR	MFS Charter Income Trust
+TRTL	TortoiseEcofin Acquisition Corp. III
+SCD	LMP Capital and Income Fund Inc.
+RIV	RiverNorth Opportunities Fund, Inc.
+AEF	Abrdn Emerging Markets Equity Income Fund Inc
+LEGT	Legato Merger Corp. III
+HRTG	Heritage Insurance Holdings, Inc.
+PBFS	Pioneer Bancorp, Inc.
+HYI	Western Asset High Yield Defined Opportunity Fund Inc.
+SLAM	Slam Corp.
+FRST	Primis Financial Corp.
+BCAL	Southern California Bancorp
+PLAO	Patria Latin American Opportunity Acquisition Corp.
+TEI	Templeton Emerging Markets Income Fund
+DBL	DoubleLine Opportunistic Credit Fund
+EOT	Eaton Vance National Municipal Opportunities Trust
+FSBW	FS Bancorp, Inc.
+INBK	First Internet Bancorp
+FTF	Franklin Limited Duration Income Trust
+BNY	BlackRock New York Municipal Income Trust
+ERC	Allspring Multi-Sector Income Fund
+BMRC	Bank of Marin Bancorp
+BKT	BlackRock Income Trust, Inc.
+PMX	PIMCO Municipal Income Fund III
+SVII	Spring Valley Acquisition Corp. II
+VPV	Invesco Pennsylvania Value Municipal Income Trust
+JMSB	John Marshall Bancorp, Inc.
+PLMJ	Plum Acquisition Corp. III
+RENE	Cartesian Growth Corporation II
+MVBF	MVB Financial Corp.
+PMF	PIMCO Municipal Income Fund
+NUW	Nuveen AMT-Free Municipal Value Fund
+NECB	Northeast Community Bancorp, Inc.
+LNKB	LINKBANCORP, Inc.
+IIF	Morgan Stanley India Investment Fund, Inc.
+WSBF	Waterstone Financial, Inc.
+USCB	USCB Financial Holdings, Inc.
+AGD	abrdn Global Dynamic Dividend
+FUND	Sprott Focus Trust, Inc.
+SSBK	Southern States Bancshares, Inc.
+PSF	Cohen & Steers Select Preferred and Income Fund, Inc.
+EVM	Eaton Vance California Municipal Bond Fund
+JCE	Nuveen Core Equity Alpha Fund
+CNDA	Concord Acquisition Corp II
+AFT	Apollo Senior Floating Rate Fund Inc.
+BCML	BayCom Corp
+CIVB	Civista Bancshares, Inc.
+FLIC	The First of Long Island Corporation
+SFST	Southern First Bancshares, Inc.
+JOF	Japan Smaller Capitalization Fund, Inc.
+GOCO	GoHealth, Inc.
+MVT	BlackRock MuniVest Fund II, Inc.
+ACV	Virtus Diversified Income & Convertible Fund
+MQT	BlackRock MuniYield Quality Fund II, Inc.
+CLBR	Colombier Acquisition Corp. II
+BLFY	Blue Foundry Bancorp
+GLO	Clough Global Opportunities Fund
+PCB	PCB Bancorp
+MUE	BlackRock MuniHoldings Quality Fund II, Inc.
+SWKH	SWK Holdings Corporation
+JRS	Nuveen Real Estate Income Fund
+MFM	MFS Municipal Income Trust
+PHT	Pioneer High Income Fund, Inc.
+LGI	Lazard Global Total Return and Income Fund, Inc.
+CVLY	Codorus Valley Bancorp, Inc.
+CBAN	Colony Bankcorp, Inc.
+AIF	Apollo Tactical Income Fund Inc.
+VTN	Invesco Trust for Investment Grade New York Municipals
+HIE	Miller/Howard High Income Equity Fund
+CAF	Morgan Stanley China A Share Fund, Inc.
+PDLB	Ponce Financial Group, Inc.
+EIC	Eagle Point Income Company Inc.
+CHMG	Chemung Financial Corporation
+TDF	Templeton Dragon Fund, Inc.
+PLBC	Plumas Bancorp
+NTG	Tortoise Midstream Energy Fund, Inc.
+NWFL	Norwood Financial Corp.
+NHS	Neuberger Berman High Yield Strategies Fund Inc.
+KVAC	Keen Vision Acquisition Corporation
+IVCB	Investcorp Europe Acquisition Corp I
+MHI	Pioneer Municipal High Income Fund, Inc.
+GHIX	Gores Holdings IX, Inc.
+SEDA	SDCL EDGE Acquisition Corporation
+BKN	BlackRock Investment Quality Municipal Trust Inc.
+ETX	Eaton Vance Municipal Income 2028 Term Trust
+TSBK	Timberland Bancorp, Inc.
+LCNB	LCNB Corp.
+OVLY	Oak Valley Bancorp
+FVCB	FVCBankcorp, Inc.
+CZFS	Citizens Financial Services, Inc.
+BWFG	Bankwell Financial Group, Inc.
+OPP	RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.
+FFNW	First Financial Northwest, Inc.
+MFIN	Medallion Financial Corp.
+PKBK	Parke Bancorp, Inc.
+BPRN	Princeton Bancorp, Inc.
+OCN	Ocwen Financial Corporation
+MAV	Pioneer Municipal High Income Advantage Fund, Inc.
+NPV	Nuveen Virginia Quality Municipal Income Fund
+WIA	Western Asset Inflation-Linked Income Fund
+COFS	ChoiceOne Financial Services, Inc.
+DMB	BNY Mellon Municipal Bond Infrastructure Fund, Inc.
+EMF	Templeton Emerging Markets Fund
+GDO	Western Asset Global Corporate Defined Opportunity Fund Inc.
+PTMN	Portman Ridge Finance Corporation
+CALB	California BanCorp
+ATLO	Ames National Corporation
+IGI	Western Asset Investment Grade Defined Opportunity Trust Inc.
+IVCA	Investcorp India Acquisition Corp
+BSL	Blackstone Senior Floating Rate 2027 Term Fund
+PCK	PIMCO California Municipal Income Fund II
+SNFCA	Security National Financial Corporation
+SBXC	SilverBox Corp III
+TRIS	Tristar Acquisition I Corp.
+NKSH	National Bankshares, Inc.
+VBF	Invesco Bond Fund
+BCG	Binah Capital Group, Inc.
+APCA	AP Acquisition Corp.
+HCVI	Hennessy Capital Investment Corp. VI
+ESSA	ESSA Bancorp, Inc.
+PPYA	Papaya Growth Opportunity Corp. I
+CPSS	Consumer Portfolio Services, Inc.
+FT	Franklin Universal Trust
+EHTH	eHealth, Inc.
+HMST	HomeStreet, Inc.
+PCQ	PIMCO California Municipal Income Fund
+ENX	Eaton Vance New York Municipal Bond Fund
+INSI	Insight Select Income Fund
+MBCN	Middlefield Banc Corp.
+SKGR	SK Growth Opportunities Corporation
+BRKH	BurTech Acquisition Corp.
+SPKL	Spark I Acquisition Corporation
+HGLB	Highland Global Allocation Fund
+BCBP	BCB Bancorp, Inc.
+HYB	The New America High Income Fund Inc.
+PVBC	Provident Bancorp, Inc.
+VERY	Vericity, Inc.
+PEGR	Project Energy Reimagined Acquisition Corp.
+LCW	Learn CW Investment Corporation
+MCAA	Mountain & Co. I Acquisition Corp.
+CBH	Virtus Convertible & Income 2024 Target Term Fund
+MPV	Barings Participation Investors
+NFYS	Enphys Acquisition Corp.
+MYFW	First Western Financial, Inc.
+DXYZ	Destiny Tech100 Inc.
+EDF	Virtus Stone Harbor Emerging Markets Income Fund
+MRCC	Monroe Capital Corporation
+FLC	Flaherty & Crumrine Total Return Fund Inc.
+PEBK	Peoples Bancorp of North Carolina, Inc.
+BGX	Blackstone / GSO Long-Short Credit Income Fund
+IDE	Voya Infrastructure, Industrials and Materials Fund
+ALCY	Alchemy Investments Acquisition Corp 1
+EVE	EVe Mobility Acquisition Corp
+EHI	Western Asset Global High Income Fund Inc.
+TEAF	Ecofin Sustainable and Social Impact Term Fund
+GGT	The Gabelli Multimedia Trust Inc.
+IBAC	IB Acquisition Corp.
+VABK	Virginia National Bankshares Corporation
+EMLD	FTAC Emerald Acquisition Corp.
+PZC	PIMCO California Municipal Income Fund III
+ISTR	Investar Holding Corporation
+NNY	Nuveen New York Municipal Value Fund
+PROP	Prairie Operating Co.
+MPA	BlackRock MuniYield Pennsylvania Quality Fund
+ESHA	ESH Acquisition Corp.
+BFAC	Battery Future Acquisition Corp.
+MCN	Madison Covered Call & Equity Strategy Fund
+GRX	The Gabelli Healthcare & Wellness Trust
+PWOD	Penns Woods Bancorp, Inc.
+CFFI	C&F Financial Corporation
+EVG	Eaton Vance Short Duration Diversified Income Fund
+OPBK	OP Bancorp
+EVBN	Evans Bancorp, Inc.
+VCXB	10X Capital Venture Acquisition Corp. III
+WNEB	Western New England Bancorp, Inc.
+SAMG	Silvercrest Asset Management Group Inc.
+MSD	Morgan Stanley Emerging Markets Debt Fund, Inc.
+BCSA	Blockchain Coinvestors Acquisition Corp. I
+MHF	Western Asset Municipal High Income Fund Inc.
+GF	The New Germany Fund, Inc.
+EARN	Ellington Credit Company
+SPE	Special Opportunities Fund, Inc.
+ISRL	Israel Acquisitions Corp
+DMF	BNY Mellon Municipal Income, Inc.
+BWG	Legg Mason BW Global Income Opportunities Fund Inc.
+ATEK	Athena Technology Acquisition Corp. II
+IGA	Voya Global Advantage and Premium Opportunity Fund
+BTA	BlackRock Long-Term Municipal Advantage Trust
+VMCA	Valuence Merger Corp. I
+HWBK	Hawthorn Bancshares, Inc.
+DMO	Western Asset Mortgage Opportunity Fund Inc.
+FINW	FinWise Bancorp
+FUNC	First United Corporation
+PFD	Flaherty & Crumrine Preferred Income Fund Inc.
+ADRT	Ault Disruptive Technologies Corporation
+AFBI	Affinity Bancshares, Inc.
+MNTN	Everest Consolidator Acquisition Corporation
+NNAG	99 Acquisition Group Inc.
+ZLS	Zalatoris II Acquisition Corp.
+OFS	OFS Capital Corporation
+RMBI	Richmond Mutual Bancorporation, Inc.
+DCF	BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc.
+PHYT	Pyrophyte Acquisition Corp.
+JHS	John Hancock Income Securities Trust
+BANX	ArrowMark Financial Corp.
+MNSB	MainStreet Bancshares, Inc.
+GATE	Marblegate Acquisition Corp.
+FGBI	First Guaranty Bancshares, Inc.
+FCCO	First Community Corporation
+FMN	Federated Hermes Premier Municipal Income Fund
+WEA	Western Asset Premier Bond Fund
+KCGI	Kensington Capital Acquisition Corp. V
+HEQ	John Hancock Hedged Equity & Income Fund
+BFIN	BankFinancial Corporation
+BVFL	BV Financial, Inc.
+TWLV	Twelve Seas Investment Company II
+UBFO	United Security Bancshares
+EVGR	Evergreen Corporation
+NAZ	Nuveen Arizona Quality Municipal Income Fund
+CFBK	CF Bankshares Inc.
+GLQ	Clough Global Equity Fund
+SRV	NXG Cushing Midstream Energy Fund
+VFL	abrdn National Municipal Income Fund
+PLMI	Plum Acquisition Corp. I
+IFIN	InFinT Acquisition Corporation
+NXG	NXG NextGen Infrastructure Income Fund
+BOCN	Blue Ocean Acquisition Corp.
+CZWI	Citizens Community Bancorp, Inc.
+PHD	Pioneer Floating Rate Fund, Inc.
+COOL	Corner Growth Acquisition Corp.
+HNVR	Hanover Bancorp, Inc.
+PCF	High Income Securities Fund
+RCFA	Perception Capital Corp. IV
+OCCI	OFS Credit Company, Inc.
+JHI	John Hancock Investors Trust
+BYNO	byNordic Acquisition Corporation
+MRBK	Meridian Corporation
+FRAF	Franklin Financial Services Corporation
+OVBC	Ohio Valley Banc Corp.
+CBFV	CB Financial Services, Inc.
+FSFG	First Savings Financial Group, Inc.
+WMPN	William Penn Bancorporation
+APXI	APx Acquisition Corp. I
+PAI	Western Asset Investment Grade Income Fund Inc.
+CDAQ	Compass Digital Acquisition Corp.
+KF	The Korea Fund, Inc.
+GSIW	Garden Stage Limited
+CFFS	CF Acquisition Corp. VII
+WHG	Westwood Holdings Group, Inc.
+FNCB	FNCB Bancorp, Inc.
+PFTA	Perception Capital Corp. III
+ECF	Ellsworth Growth and Income Fund Ltd.
+ECBK	ECB Bancorp, Inc.
+NIM	Nuveen Select Maturities Municipal Fund
+PFO	Flaherty & Crumrine Preferred Income Opportunity Fund Inc.
+TLGY	TLGY Acquisition Corporation
+THCP	Thunder Bridge Capital Partners IV Inc.
+SBI	Western Asset Intermediate Muni Fund Inc.
+LARK	Landmark Bancorp, Inc.
+CHN	The China Fund, Inc.
+CSLM	CSLM Acquisition Corp.
+MCAC	Monterey Capital Acquisition Corporation
+EBMT	Eagle Bancorp Montana, Inc.
+GPAC	Global Partner Acquisition Corp II
+TGAA	Target Global Acquisition I Corp.
+FNWD	Finward Bancorp
+BLUA	BlueRiver Acquisition Corp.
+KSM	DWS Strategic Municipal Income Trust
+CHAA	Catcha Investment Corp
+SWZ	The Swiss Helvetia Fund Inc.
+CGO	Calamos Global Total Return Fund
+CCIF	Carlyle Credit Income Fund
+FNWB	First Northwest Bancorp
+SFBC	Sound Financial Bancorp, Inc.
+EVF	Eaton Vance Senior Income Trust
+PWUP	PowerUp Acquisition Corp.
+UNB	Union Bankshares, Inc.
+RMI	RiverNorth Opportunistic Municipal Income Fund, Inc.
+HMNF	HMN Financial, Inc.
+NMT	Nuveen Massachusetts Quality Municipal Income Fund
+PCM	PCM Fund Inc.
+FXNC	First National Corporation
+RFM	RiverNorth Flexible Municipal Income Fund, Inc.
+IXAQ	IX Acquisition Corp.
+TBMC	Trailblazer Merger Corporation I
+SRL	Scully Royalty Ltd.
+GGZ	The Gabelli Global Small and Mid Cap Value Trust
+BOWN	Bowen Acquisition Corp
+GECC	Great Elm Capital Corp.
+HNW	Pioneer Diversified High Income Fund, Inc.
+FCAP	First Capital, Inc.
+JLS	Nuveen Mortgage and Income Fund
+IHD	Voya Emerging Markets High Dividend Equity Fund
+GDL	The GDL Fund
+AFJK	Aimei Health Technology Co., Ltd
+NMI	Nuveen Municipal Income Fund, Inc.
+SBFG	SB Financial Group, Inc.
+QETA	Quetta Acquisition Corporation
+GLAC	Global Lights Acquisition Corp
+ERH	Allspring Utilities and High Income Fund
+BCV	Bancroft Fund Ltd.
+PFX	PhenixFIN Corporation
+DYCQ	DT Cloud Acquisition Corporation
+TPZ	Tortoise Power and Energy Infrastructure Fund, Inc.
+INAQ	Insight Acquisition Corp.
+ACAB	Atlantic Coastal Acquisition Corp. II
+BSBK	Bogota Financial Corp.
+GNT	GAMCO Natural Resources, Gold & Income Trust
+KRNL	Kernel Group Holdings, Inc.
+IROH	Iron Horse Acquisitions Corp.
+GLST	Global Star Acquisition, Inc.
+CITE	Cartica Acquisition Corp
+ONYX	Onyx Acquisition Co. I
+RBKB	Rhinebeck Bancorp, Inc.
+TMTC	TMT Acquisition Corp
+GAQ	Generation Asia I Acquisition Limited
+CNGL	Canna-Global Acquisition Corp
+PROV	Provident Financial Holdings, Inc.
+ARYD	ARYA Sciences Acquisition Corp IV
+PGP	PIMCO Global StocksPLUS & Income Fund
+IRAA	Iris Acquisition Corp
+HSPO	Horizon Space Acquisition I Corp.
+GLU	The Gabelli Global Utility & Income Trust
+SRBK	SR Bancorp, Inc.
+QDRO	Quadro Acquisition One Corp.
+GAMC	Golden Arrow Merger Corp.
+BHAC	Focus Impact BH3 Acquisition Company
+GBBK	Global Blockchain Acquisition Corp.
+VGI	Virtus Global Multi-Sector Income Fund
+BACA	Berenson Acquisition Corp. I
+EMCG	Embrace Change Acquisition Corp.
+MDBH	MDB Capital Holdings, LLC
+FIAC	Focus Impact Acquisition Corp.
+BUJA	Bukit Jalil Global Acquisition 1 Ltd
+JEQ	Abrdn Japan Equity Fund Inc
+AACI	Armada Acquisition Corp. I
+LATG	Chenghe Acquisition I Co.
+DOMA	Doma Holdings Inc.
+NXC	Nuveen California Select Tax-Free Income Portfolio
+WEL	Integrated Wellness Acquisition Corp
+ASCB	A SPAC II Acquisition Corp.
+DPCS	DP Cap Acquisition Corp I
+BITE	Bite Acquisition Corp.
+OAKU	Oak Woods Acquisition Corporation
+AITR	AI Transportation Acquisition Corp
+PNI	PIMCO New York Municipal Income Fund II
+BLEU	bleuacacia ltd
+TCOA	Zalatoris Acquisition Corp.
+GODN	Golden Star Acquisition Corporation
+BAYA	Bayview Acquisition Corp
+PTWO	Pono Capital Two, Inc.
+PRLH	Pearl Holdings Acquisition Corp
+JVSA	JVSPAC Acquisition Corp.
+USCT	Roth CH Acquisition Co.
+ATMV	AlphaVest Acquisition Corp
+PBHC	Pathfinder Bancorp, Inc.
+FEXD	Fintech Ecosystem Development Corp.
+AEAE	AltEnergy Acquisition Corp.
+CMCA	Capitalworks Emerging Markets Acquisition Corp
+DTF	DTF Tax-Free Income 2028 Term Fund Inc.
+TETE	Technology & Telecommunication Acquisition Corporation
+GDST	Goldenstone Acquisition Limited
+FNVT	Finnovate Acquisition Corp.
+ATMC	AlphaTime Acquisition Corp
+CBRG	Chain Bridge I
+TENK	TenX Keane Acquisition
+OPOF	Old Point Financial Corporation
+BWAQ	Blue World Acquisition Corporation
+OCAX	OCA Acquisition Corp.
+FORL	Four Leaf Acquisition Corporation
+NPAB	New Providence Acquisition Corp. II
+IVCP	Swiftmerge Acquisition Corp.
+CEV	Eaton Vance California Municipal Income Trust
+CULL	Cullman Bancorp, Inc.
+FCO	abrdn Global Income Fund, Inc.
+RGT	Royce Global Trust, Inc.
+SWSS	Clean Energy Special Situations Corp.
+MITA	Coliseum Acquisition Corp.
+MSSA	Metal Sky Star Acquisition Corporation
+MGYR	Magyar Bancorp, Inc.
+NVAC	NorthView Acquisition Corporation
+LSBK	Lake Shore Bancorp, Inc.
+TBNK	Territorial Bancorp Inc.
+FRLA	Fortune Rise Acquisition Corporation
+UBCP	United Bancorp, Inc.
+TTP	Tortoise Pipeline & Energy Fund, Inc.
+DIST	Distoken Acquisition Corporation
+GLV	Clough Global Dividend and Income Fund
+VLT	Invesco High Income Trust II
+IAE	Voya Asia Pacific High Dividend Equity Income Fund
+CEE	The Central and Eastern Europe Fund, Inc.
+MAQC	Maquia Capital Acquisition Corporation
+GLLI	Globalink Investment Inc.
+HAIA	Healthcare AI Acquisition Corp.
+PGZ	Principal Real Estate Income Fund
+IHTA	Invesco High Income 2024 Target Term Fund
+IOR	Income Opportunity Realty Investors, Inc.
+VBFC	Village Bank and Trust Financial Corp.
+FAM	First Trust/Abrdn Global Opportunity Income Fund
+AFAR	Aura FAT Projects Acquisition Corp
+FTII	FutureTech II Acquisition Corp.
+RFAC	RF Acquisition Corp.
+CLOE	Clover Leaf Capital Corp.
+AUBN	Auburn National Bancorporation, Inc.
+NBST	Newbury Street Acquisition Corporation
+MFD	Macquarie/First Trust Global Infrastructure/Utilities Dividend & Income Fund
+SSBI	Summit State Bank
+IGTA	Inception Growth Acquisition Limited
+NMS	Nuveen Minnesota Quality Municipal Income Fund
+FLFV	Feutune Light Acquisition Corporation
+DHAC	Digital Health Acquisition Corp.
+TRON	Corner Growth Acquisition Corp. 2
+CXH	MFS Investment Grade Municipal Trust
+EEA	The European Equity Fund, Inc.
+HHGC	HHG Capital Corporation
+BNIX	Bannix Acquisition Corp.
+PNF	PIMCO New York Municipal Income Fund
+LRFC	Logan Ridge Finance Corporation
+IROQ	IF Bancorp, Inc.
+CCTS	Cactus Acquisition Corp. 1 Limited
+FUSB	First US Bancshares, Inc.
+GMFI	Aetherium Acquisition Corp.
+TCBC	TC Bancshares, Inc.
+NDP	Tortoise Energy Independence Fund, Inc.
+JMM	Nuveen Multi-Market Income Fund
+HNNA	Hennessy Advisors, Inc.
+ROCL	Roth Ch Acquisition V Co.
+SEPA	SEP Acquisition Corp.
+CLST	Catalyst Bancorp, Inc.
+AOGO	Arogo Capital Acquisition Corp.
+CLRC	ClimateRock
+NSTS	NSTS Bancorp, Inc.
+RSF	RiverNorth Capital and Income Fund, Inc.
+BOTJ	Bank of the James Financial Group, Inc.
+ICCH	ICC Holdings, Inc.
+FMY	First Trust Mortgage Income Fund
+WTMA	Welsbach Technology Metals Acquisition Corp.
+HUDA	Hudson Acquisition I Corp.
+BREZ	Breeze Holdings Acquisition Corp.
+MARX	Mars Acquisition Corp.
+NICK	Nicholas Financial, Inc.
+BAFN	BayFirst Financial Corp.
+MXE	Mexico Equity & Income Fund Inc.
+FSEA	First Seacoast Bancorp, Inc.
+TCBS	Texas Community Bancshares, Inc.
+NXN	Nuveen New York Select Tax-Free Income Portfolio
+WINV	WinVest Acquisition Corp.
+CFSB	CFSB Bancorp, Inc.
+MACA	Moringa Acquisition Corp
+BCOW	1895 Bancorp of Wisconsin, Inc.
+KACL	Kairous Acquisition Corp. Limited
+RAND	Rand Capital Corporation
+YOTA	Yotta Acquisition Corporation
+DECA	Denali Capital Acquisition Corp.
+AIB	AIB Acquisition Corporation
+WAVS	Western Acquisition Ventures Corp.
+DMYY	dMY Squared Technology Group, Inc.
+CETU	Cetus Capital Acquisition Corp.
+NOVV	Nova Vision Acquisition Corporation
+DUET	DUET Acquisition Corp.
+CPBI	Central Plains Bancshares, Inc.
+GRF	Eagle Capital Growth Fund, Inc.
+HFBL	Home Federal Bancorp, Inc. of Louisiana
+EGF	BlackRock Enhanced Government Fund, Inc.
+RWOD	Redwoods Acquisition Corp.
+MCAG	Mountain Crest Acquisition Corp. V
+PLTN	Plutonian Acquisition Corp.
+PYN	PIMCO New York Municipal Income Fund III
+PBBK	PB Bankshares, Inc.
+NOM	Nuveen Missouri Quality Municipal Income Fund
+GBNY	Generations Bancorp NY, Inc.
+NISN	Nisun International Enterprise Development Group Co., Ltd
+COHN	Cohen & Company Inc.
+BHV	BlackRock Virginia Municipal Bond Trust
+BOW	Bowhead Specialty Holdings Inc.
+BKHA	Black Hawk Acquisition Corporation
+KBDC	Kayne Anderson BDC, Inc.
+GOOG	Alphabet Inc.
+META	Meta Platforms, Inc.
+NFLX	Netflix, Inc.
+TMUS	T-Mobile US, Inc.
+DIS	The Walt Disney Company
+VZ	Verizon Communications Inc.
+CMCSA	Comcast Corporation
+T	AT&T Inc.
+SPOT	Spotify Technology S.A.
+DASH	DoorDash, Inc.
+CHTR	Charter Communications, Inc.
+EA	Electronic Arts Inc.
+PINS	Pinterest, Inc.
+TTWO	Take-Two Interactive Software, Inc.
+SNAP	Snap Inc.
+LYV	Live Nation Entertainment, Inc.
+RBLX	Roblox Corporation
+WBD	Warner Bros. Discovery, Inc.
+OMC	Omnicom Group Inc.
+FWONA	Formula One Group
+NWSA	News Corporation
+FOXA	Fox Corporation
+WMG	Warner Music Group Corp.
+IPG	The Interpublic Group of Companies, Inc.
+TWLO	Twilio Inc.
+ZG	Zillow Group, Inc.
+RDDT	Reddit, Inc.
+TKO	TKO Group Holdings, Inc.
+DJT	Trump Media & Technology Group Corp.
+NYT	The New York Times Company
+PARA	Paramount Global
+ROKU	Roku, Inc.
+MTCH	Match Group, Inc.
+EDR	Endeavor Group Holdings, Inc.
+LBRDA	Liberty Broadband Corporation
+LSXMA	The Liberty SiriusXM Group
+YNDX	Yandex N.V.
+FYBR	Frontier Communications Parent, Inc.
+LBTYA	Liberty Global Ltd.
+NXST	Nexstar Media Group, Inc.
+USM	United States Cellular Corporation
+MSGS	Madison Square Garden Sports Corp.
+TIGO	Millicom International Cellular S.A.
+IAC	IAC Inc.
+IRDM	Iridium Communications Inc.
+LLYVA	Liberty Live Group
+PLTK	Playtika Holding Corp.
+CCOI	Cogent Communications Holdings, Inc.
+MANU	Manchester United plc
+ZD	Ziff Davis, Inc.
+TGNA	TEGNA Inc.
+YELP	Yelp Inc.
+BATRA	Atlanta Braves Holdings, Inc.
+TDS	Telephone and Data Systems, Inc.
+CABO	Cable One, Inc.
+CNK	Cinemark Holdings, Inc.
+CMPR	Cimpress plc
+PLAY	Dave & Buster's Entertainment, Inc.
+WLY	John Wiley & Sons, Inc.
+LGF-B	Lions Gate Entertainment Corp.
+STGW	Stagwell Inc.
+LILA	Liberty Latin America Ltd.
+MGNI	Magnite, Inc.
+IAS	Integral Ad Science Holding Corp.
+SSTK	Shutterstock, Inc.
+UPWK	Upwork Inc.
+GOGO	Gogo Inc.
+SPHR	Sphere Entertainment Co.
+MAX	MediaAlpha, Inc.
+EEX	Emerald Holding, Inc.
+GENI	Genius Sports Limited
+NRDS	NerdWallet, Inc.
+SEAT	Vivid Seats Inc.
+IDT	IDT Corporation
+SCHL	Scholastic Corporation
+SHEN	Shenandoah Telecommunications Company
+DLX	Deluxe Corporation
+FVRR	Fiverr International Ltd.
+QNST	QuinStreet, Inc.
+SBGI	Sinclair, Inc.
+IMAX	IMAX Corporation
+TTGT	TechTarget, Inc.
+EVER	EverQuote, Inc.
+THRY	Thryv Holdings, Inc.
+AMCX	AMC Networks Inc.
+GMGI	Golden Matrix Group, Inc.
+GTN-A	Gray Television, Inc.
+GRPN	Groupon, Inc.
+ATEX	Anterix Inc.
+NCMI	National CineMedia, Inc.
+RSVR	Reservoir Media, Inc.
+BOC	Boston Omaha Corporation
+CDLX	Cardlytics, Inc.
+WOW	WideOpenWest, Inc.
+ATNI	ATN International, Inc.
+MCS	The Marcus Corporation
+HAO	Haoxi Health Technology Limited
+TSQ	Townsquare Media, Inc.
+RDCM	RADCOM Ltd.
+SKLZ	Skillz Inc.
+SGA	Saga Communications, Inc.
+TZOO	Travelzoo
+LEE	Lee Enterprises, Incorporated
+STCN	Steel Connect, Inc.
+SCOR	comScore, Inc.
+BODI	The Beachbody Company, Inc.
+LDWY	Lendway, Inc.
+LION	Lionsgate Studios Corp.
+MSFT	Microsoft Corporation
+AAPL	Apple Inc.
+NVDA	NVIDIA Corporation
+AVGO	Broadcom Inc.
+ORCL	Oracle Corporation
+AMD	Advanced Micro Devices, Inc.
+QCOM	QUALCOMM Incorporated
+CRM	Salesforce, Inc.
+ADBE	Adobe Inc.
+CSCO	Cisco Systems, Inc.
+AMAT	Applied Materials, Inc.
+TXN	Texas Instruments Incorporated
+ACN	Accenture plc
+INTU	Intuit Inc.
+IBM	International Business Machines Corporation
+MU	Micron Technology, Inc.
+NOW	ServiceNow, Inc.
+UBER	Uber Technologies, Inc.
+INTC	Intel Corporation
+LRCX	Lam Research Corporation
+ADI	Analog Devices, Inc.
+KLAC	KLA Corporation
+PANW	Palo Alto Networks, Inc.
+DELL	Dell Technologies Inc.
+ANET	Arista Networks, Inc.
+SNPS	Synopsys, Inc.
+FI	Fiserv, Inc.
+CRWD	CrowdStrike Holdings, Inc.
+APH	Amphenol Corporation
+CDNS	Cadence Design Systems, Inc.
+SHOP	Shopify Inc.
+NXPI	NXP Semiconductors N.V.
+MSI	Motorola Solutions, Inc.
+MRVL	Marvell Technology, Inc.
+ROP	Roper Technologies, Inc.
+WDAY	Workday, Inc.
+MCHP	Microchip Technology Incorporated
+PLTR	Palantir Technologies Inc.
+FTNT	Fortinet, Inc.
+SMCI	Super Micro Computer, Inc.
+TTD	The Trade Desk, Inc.
+TEL	TE Connectivity Ltd.
+SNOW	Snowflake Inc.
+ADSK	Autodesk, Inc.
+FIS	Fidelity National Information Services, Inc.
+TEAM	Atlassian Corporation
+SQ	Block, Inc.
+DDOG	Datadog, Inc.
+MPWR	Monolithic Power Systems, Inc.
+HPQ	HP Inc.
+CTSH	Cognizant Technology Solutions Corporation
+FICO	Fair Isaac Corporation
+IT	Gartner, Inc.
+GLW	Corning Incorporated
+GRMN	Garmin Ltd.
+ON	ON Semiconductor Corporation
+HUBS	HubSpot, Inc.
+CDW	CDW Corporation
+FSLR	First Solar, Inc.
+MSTR	MicroStrategy Incorporated
+ANSS	ANSYS, Inc.
+GFS	GLOBALFOUNDRIES Inc.
+APP	AppLovin Corporation
+ZS	Zscaler, Inc.
+FTV	Fortive Corporation
+WDC	Western Digital Corporation
+NTAP	NetApp, Inc.
+KEYS	Keysight Technologies, Inc.
+BR	Broadridge Financial Solutions, Inc.
+NET	Cloudflare, Inc.
+HPE	Hewlett Packard Enterprise Company
+TER	Teradyne, Inc.
+PTC	PTC Inc.
+TYL	Tyler Technologies, Inc.
+LDOS	Leidos Holdings, Inc.
+GDDY	GoDaddy Inc.
+PSTG	Pure Storage, Inc.
+STX	Seagate Technology Holdings plc
+ZM	Zoom Video Communications, Inc.
+ENTG	Entegris, Inc.
+TDY	Teledyne Technologies Incorporated
+CPAY	Corpay, Inc.
+IOT	Samsara Inc.
+MDB	MongoDB, Inc.
+NTNX	Nutanix, Inc.
+VRSN	VeriSign, Inc.
+ENPH	Enphase Energy, Inc.
+CHKP	Check Point Software Technologies Ltd.
+OKTA	Okta, Inc.
+ZBRA	Zebra Technologies Corporation
+BSY	Bentley Systems, Incorporated
+GEN	Gen Digital Inc.
+SSNC	SS&C Technologies Holdings, Inc.
+SWKS	Skyworks Solutions, Inc.
+JBL	Jabil Inc.
+AKAM	Akamai Technologies, Inc.
+MANH	Manhattan Associates, Inc.
+TRMB	Trimble Inc.
+DT	Dynatrace, Inc.
+TOST	Toast, Inc.
+AZPN	Aspen Technology, Inc.
+FLEX	Flex Ltd.
+JKHY	Jack Henry & Associates, Inc.
+DOCU	DocuSign, Inc.
+JNPR	Juniper Networks, Inc.
+SNX	TD SYNNEX Corporation
+MNDY	monday.com Ltd.
+ZI	ZoomInfo Technologies Inc.
+ONTO	Onto Innovation Inc.
+ESTC	Elastic N.V.
+EPAM	EPAM Systems, Inc.
+LSCC	Lattice Semiconductor Corporation
+CYBR	CyberArk Software Ltd.
+ALAB	Astera Labs, Inc.
+FFIV	F5, Inc.
+PCOR	Procore Technologies, Inc.
+GWRE	Guidewire Software, Inc.
+CACI	CACI International Inc
+QRVO	Qorvo, Inc.
+DOX	Amdocs Limited
+CFLT	Confluent, Inc.
+AFRM	Affirm Holdings, Inc.
+WIX	Wix.com Ltd.
+COHR	Coherent Corp.
+FN	Fabrinet
+UI	Ubiquiti Inc.
+INFA	Informatica Inc.
+MKSI	MKS Instruments, Inc.
+PAYC	Paycom Software, Inc.
+OLED	Universal Display Corporation
+APPF	AppFolio, Inc.
+DUOL	Duolingo, Inc.
+GTLB	GitLab Inc.
+PSN	Parsons Corporation
+PCTY	Paylocity Holding Corporation
+AMKR	Amkor Technology, Inc.
+NXT	Nextracker Inc.
+CGNX	Cognex Corporation
+WEX	WEX Inc.
+DAY	Dayforce Inc
+DBX	Dropbox, Inc.
+MTSI	MACOM Technology Solutions Holdings, Inc.
+ALTR	Altair Engineering Inc.
+U	Unity Software Inc.
+SPSC	SPS Commerce, Inc.
+PATH	UiPath Inc.
+ARW	Arrow Electronics, Inc.
+CIEN	Ciena Corporation
+GLOB	Globant S.A.
+SAIC	Science Applications International Corporation
+CCCS	CCC Intelligent Solutions Holdings Inc.
+HCP	HashiCorp, Inc.
+NSIT	Insight Enterprises, Inc.
+LFUS	Littelfuse, Inc.
+LYFT	Lyft, Inc.
+ST	Sensata Technologies Holding plc
+CRUS	Cirrus Logic, Inc.
+VNT	Vontier Corporation
+KD	Kyndryl Holdings, Inc.
+NVMI	Nova Ltd.
+SQSP	Squarespace, Inc.
+KVYO	Klaviyo, Inc.
+RMBS	Rambus Inc.
+G	Genpact Limited
+FOUR	Shift4 Payments, Inc.
+ALGM	Allegro MicroSystems, Inc.
+NOVT	Novanta Inc.
+BMI	Badger Meter, Inc.
+BILL	BILL Holdings, Inc.
+EEFT	Euronet Worldwide, Inc.
+VERX	Vertex, Inc.
+CWAN	Clearwater Analytics Holdings, Inc.
+S	SentinelOne, Inc.
+QLYS	Qualys, Inc.
+SATS	EchoStar Corporation
+TENB	Tenable Holdings, Inc.
+SMAR	Smartsheet Inc.
+PEGA	Pegasystems Inc.
+VRNS	Varonis Systems, Inc.
+AVT	Avnet, Inc.
+ITRI	Itron, Inc.
+EXLS	ExlService Holdings, Inc.
+CVLT	Commvault Systems, Inc.
+CAMT	Camtek Ltd.
+PI	Impinj, Inc.
+ALIT	Alight, Inc.
+POWI	Power Integrations, Inc.
+ASGN	ASGN Incorporated
+STNE	StoneCo Ltd.
+CRDO	Credo Technology Group Holding Ltd
+FORM	FormFactor, Inc.
+WK	Workiva Inc.
+BRZE	Braze, Inc.
+CNXC	Concentrix Corporation
+BLKB	Blackbaud, Inc.
+SLAB	Silicon Laboratories Inc.
+IPGP	IPG Photonics Corporation
+BOX	Box, Inc.
+PAGS	PagSeguro Digital Ltd.
+BDC	Belden Inc.
+FRSH	Freshworks Inc.
+CLVT	Clarivate Plc
+SANM	Sanmina Corporation
+ACIW	ACI Worldwide, Inc.
+SYNA	Synaptics Incorporated
+ACLS	Axcelis Technologies, Inc.
+AI	C3.ai, Inc.
+QTWO	Q2 Holdings, Inc.
+FROG	JFrog Ltd.
+ENV	Envestnet, Inc.
+ZETA	Zeta Global Holdings Corp.
+PWSC	PowerSchool Holdings, Inc.
+FIVN	Five9, Inc.
+NCNO	nCino, Inc.
+DIOD	Diodes Incorporated
+DOCN	DigitalOcean Holdings, Inc.
+ALRM	Alarm.com Holdings, Inc.
+VSH	Vishay Intertechnology, Inc.
+WOLF	Wolfspeed, Inc.
+INST	Instructure Holdings, Inc.
+RUN	Sunrun Inc.
+TDC	Teradata Corporation
+RNG	RingCentral, Inc.
+DV	DoubleVerify Holdings, Inc.
+SRAD	Sportradar Group AG
+CXM	Sprinklr, Inc.
+PLXS	Plexus Corp.
+ASAN	Asana, Inc.
+BL	BlackLine, Inc.
+LITE	Lumentum Holdings Inc.
+IDCC	InterDigital, Inc.
+GBTG	Global Business Travel Group, Inc.
+ESE	ESCO Technologies Inc.
+SITM	SiTime Corporation
+SEDG	SolarEdge Technologies, Inc.
+DXC	DXC Technology Company
+MQ	Marqeta, Inc.
+ALKT	Alkami Technology, Inc.
+DLO	DLocal Limited
+INTA	Intapp, Inc.
+IBTA	Ibotta, Inc.
+AGYS	Agilysys, Inc.
+SMTC	Semtech Corporation
+PRFT	Perficient, Inc.
+KLIC	Kulicke and Soffa Industries, Inc.
+RELY	Remitly Global, Inc.
+NABL	N-able, Inc.
+OSIS	OSI Systems, Inc.
+YOU	Clear Secure, Inc.
+AMBA	Ambarella, Inc.
+RPD	Rapid7, Inc.
+CALX	Calix, Inc.
+PAY	Paymentus Holdings, Inc.
+VECO	Veeco Instruments Inc.
+WNS	WNS (Holdings) Limited
+PYCR	Paycor HCM, Inc.
+CLBT	Cellebrite DI Ltd.
+EVTC	EVERTEC, Inc.
+PAYO	Payoneer Global Inc.
+SEMR	Semrush Holdings, Inc.
+ROG	Rogers Corporation
+PRGS	Progress Software Corporation
+AVDX	AvidXchange Holdings, Inc.
+FLYW	Flywire Corporation
+ARRY	Array Technologies, Inc.
+ASTS	AST SpaceMobile, Inc.
+VZIO	VIZIO Holding Corp.
+VSAT	Viasat, Inc.
+UCTT	Ultra Clean Holdings, Inc.
+RAMP	LiveRamp Holdings, Inc.
+APPN	Appian Corporation
+BMBL	Bumble Inc.
+ODD	Oddity Tech Ltd.
+JAMF	Jamf Holding Corp.
+PLUS	ePlus inc.
+NATL	NCR Atleos Corporation
+SONO	Sonos, Inc.
+SWI	SolarWinds Corporation
+VYX	NCR Voyix Corporation
+TTMI	TTM Technologies, Inc.
+VRNT	Verint Systems Inc.
+SPNS	Sapiens International Corporation N.V.
+SPT	Sprout Social, Inc.
+EVCM	EverCommerce Inc.
+PD	PagerDuty, Inc.
+RUM	Rumble Inc.
+UPBD	Upbound Group, Inc.
+CNXN	PC Connection, Inc.
+XRX	Xerox Holdings Corporation
+PLAB	Photronics, Inc.
+IONQ	IonQ, Inc.
+VIAV	Viavi Solutions Inc.
+AVPT	AvePoint, Inc.
+GRND	Grindr Inc.
+DBD	Diebold Nixdorf, Incorporated
+CTS	CTS Corporation
+SOUN	SoundHound AI, Inc.
+KN	Knowles Corporation
+VICR	Vicor Corporation
+BHE	Benchmark Electronics, Inc.
+COHU	Cohu, Inc.
+PAR	PAR Technology Corporation
+STER	Sterling Check Corp.
+ZUO	Zuora, Inc.
+MXL	MaxLinear, Inc.
+NTCT	NetScout Systems, Inc.
+EXTR	Extreme Networks, Inc.
+EVBG	Everbridge, Inc.
+HLIT	Harmonic Inc.
+MLNK	MeridianLink, Inc.
+PRO	PROS Holdings, Inc.
+INFN	Infinera Corporation
+SHLS	Shoals Technologies Group, Inc.
+CRCT	Cricut, Inc.
+PDFS	PDF Solutions, Inc.
+ACMR	ACM Research, Inc.
+GCT	GigaCloud Technology Inc.
+CSIQ	Canadian Solar Inc.
+ADEA	Adeia Inc.
+CSGS	CSG Systems International, Inc.
+ICHR	Ichor Holdings, Ltd.
+VTEX	VTEX
+TASK	TaskUs, Inc.
+CRSR	Corsair Gaming, Inc.
+SCSC	ScanSource, Inc.
+MODN	Model N, Inc.
+BASE	Couchbase, Inc.
+ATEN	A10 Networks, Inc.
+INDI	indie Semiconductor, Inc.
+PUBM	PubMatic, Inc.
+PSFE	Paysafe Limited
+AMPL	Amplitude, Inc.
+SGH	SMART Global Holdings, Inc.
+FSLY	Fastly, Inc.
+ML	MoneyLion Inc.
+RSKD	Riskified Ltd.
+RPAY	Repay Holdings Corporation
+NN	NextNav Inc.
+DGII	Digi International Inc.
+KARO	Karooooo Ltd.
+BELFB	Bel Fuse Inc.
+ENFN	Enfusion, Inc.
+WKME	WalkMe Ltd.
+PGY	Pagaya Technologies Ltd.
+RDWR	Radware Ltd.
+AOSL	Alpha and Omega Semiconductor Limited
+SNPO	Snap One Holdings Corp.
+AILE	iLearningEngines, Inc.
+GDYN	Grid Dynamics Holdings, Inc.
+BTDR	Bitdeer Technologies Group
+IMXI	International Money Express, Inc.
+NOVA	Sunnova Energy International Inc.
+IIIV	i3 Verticals, Inc.
+BIGC	BigCommerce Holdings, Inc.
+YEXT	Yext, Inc.
+LASR	nLIGHT, Inc.
+HCKT	The Hackett Group, Inc.
+SMWB	Similarweb Ltd.
+SSYS	Stratasys Ltd.
+DSP	Viant Technology Inc.
+MITK	Mitek Systems, Inc.
+DMRC	Digimarc Corporation
+PWFL	PowerFleet, Inc.
+DAVE	Dave Inc.
+ITRN	Ituran Location and Control Ltd.
+FAAS	DigiAsia Corp.
+MLAB	Mesa Laboratories, Inc.
+CLFD	Clearfield, Inc.
+BAND	Bandwidth Inc.
+SVCO	Silvaco Group, Inc.
+CGNT	Cognyte Software Ltd.
+OUST	Ouster, Inc.
+DJCO	Daily Journal Corporation
+CTLP	Cantaloupe, Inc.
+SCWX	SecureWorks Corp.
+OSPN	OneSpan Inc.
+DAKT	Daktronics, Inc.
+CEVA	CEVA, Inc.
+LYTS	LSI Industries Inc.
+ALNT	Allient Inc.
+VPG	Vishay Precision Group, Inc.
+ADTN	ADTRAN Holdings, Inc.
+MEI	Methode Electronics, Inc.
+AAOI	Applied Optoelectronics, Inc.
+NTGR	NETGEAR, Inc.
+XPER	Xperi Inc.
+AVNW	Aviat Networks, Inc.
+NVEC	NVE Corporation
+INOD	Innodata Inc.
+CCSI	Consensus Cloud Solutions, Inc.
+SKYT	SkyWater Technology, Inc.
+FARO	FARO Technologies, Inc.
+HEAR	Turtle Beach Corporation
+LAW	CS Disco, Inc.
+AMSWA	American Software, Inc.
+AEHR	Aehr Test Systems
+IMMR	Immersion Corporation
+GILT	Gilat Satellite Networks Ltd.
+AIP	Arteris, Inc.
+JDZG	JIADE Limited
+TTEC	TTEC Holdings, Inc.
+TRAK	ReposiTrak, Inc.
+RDVT	Red Violet, Inc.
+AEYE	AudioEye, Inc.
+SMXT	SolarMax Technology, Inc.
+IBEX	IBEX Limited
+BLZE	Backblaze, Inc.
+CLMB	Climb Global Solutions, Inc.
+DOMO	Domo, Inc.
+ONTF	ON24, Inc.
+TCX	Tucows Inc.
+OOMA	Ooma, Inc.
+SSTI	SoundThinking, Inc.
+ASUR	Asure Software, Inc.
+MX	Magnachip Semiconductor Corporation
+QUIK	QuickLogic Corporation
+UBXG	U-BX Technology Ltd.
+EGAN	eGain Corporation
+RYDE	Ryde Group Ltd.
+RELL	Richardson Electronics, Ltd.
+UEIC	Universal Electronics Inc.
+CSPI	CSP Inc.
+ALOT	AstroNova, Inc.
+FEBO	Fenbo Holdings Limited
+MRAM	Everspin Technologies, Inc.
+INTT	inTEST Corporation
+INSG	Inseego Corp.
+CCRD	CoreCard Corporation
+BKKT	Bakkt Holdings, Inc.
+KVHI	KVH Industries, Inc.
+MPTI	M-tron Industries, Inc.
+SSNT	SilverSun Technologies, Inc.
+SILC	Silicom Ltd.
+SNCR	Synchronoss Technologies, Inc.
+ASYS	Amtech Systems, Inc.
+SWVL	Swvl Holdings Corp.
+FEIM	Frequency Electronics, Inc.
+BEEM	Beam Global
+ELTK	Eltek Ltd.
+DPSI	DecisionPoint Systems, Inc.
+KPLT	Katapult Holdings, Inc.
+AUID	authID Inc.
+WFCF	Where Food Comes From, Inc.
+AIRG	Airgain, Inc.
+EGIO	Edgio, Inc.
+EBON	Ebang International Holdings Inc.
+PHUN	Phunware, Inc.
+AXIL	AXIL Brands, Inc.
+GRRR	Gorilla Technology Group Inc.
+DTST	Data Storage Corporation
+BKTI	BK Technologies Corporation
+BNAI	Brand Engagement Network, Inc.
+ISDR	Issuer Direct Corporation
+TSRI	TSR, Inc.
+LGL	The LGL Group, Inc.
+TRT	Trio-Tech International
+INLX	Intellinetics, Inc.
+DTSS	Datasea Inc.
+SMTK	SmartKem, Inc. Common Stock
+AWIN	AERWINS Technologies Inc.
+RBRK	Rubrik, Inc.
+AMZN	Amazon.com, Inc.
+TSLA	Tesla, Inc.
+HD	The Home Depot, Inc.
+MCD	McDonald's Corporation
+NKE	NIKE, Inc.
+BKNG	Booking Holdings Inc.
+LOW	Lowe's Companies, Inc.
+TJX	The TJX Companies, Inc.
+ABNB	Airbnb, Inc.
+SBUX	Starbucks Corporation
+MELI	MercadoLibre, Inc.
+CMG	Chipotle Mexican Grill, Inc.
+MAR	Marriott International, Inc.
+ORLY	O'Reilly Automotive, Inc.
+GM	General Motors Company
+HLT	Hilton Worldwide Holdings Inc.
+DHI	D.R. Horton, Inc.
+F	Ford Motor Company
+AZO	AutoZone, Inc.
+ROST	Ross Stores, Inc.
+LEN	Lennar Corporation
+CPNG	Coupang, Inc.
+LULU	Lululemon Athletica Inc.
+YUM	Yum! Brands, Inc.
+RCL	Royal Caribbean Cruises Ltd.
+LVS	Las Vegas Sands Corp.
+TSCO	Tractor Supply Company
+DECK	Deckers Outdoor Corporation
+EBAY	eBay Inc.
+DKS	DICK'S Sporting Goods, Inc.
+PHM	PulteGroup, Inc.
+NVR	NVR, Inc.
+APTV	Aptiv PLC
+ROL	Rollins, Inc.
+BALL	Ball Corporation
+MBLY	Mobileye Global Inc.
+GPC	Genuine Parts Company
+CCL	Carnival Corporation & plc
+ULTA	Ulta Beauty, Inc.
+WSM	Williams-Sonoma, Inc.
+BBY	Best Buy Co., Inc.
+AVY	Avery Dennison Corporation
+DRI	Darden Restaurants, Inc.
+CVNA	Carvana Co.
+DPZ	Domino's Pizza, Inc.
+DKNG	DraftKings Inc.
+PKG	Packaging Corporation of America
+IP	International Paper Company
+BURL	Burlington Stores, Inc.
+EXPE	Expedia Group, Inc.
+H	Hyatt Hotels Corporation
+AMCR	Amcor plc
+YUMC	Yum China Holdings, Inc.
+WRK	WestRock Company
+ONON	On Holding AG
+MGM	MGM Resorts International
+TOL	Toll Brothers, Inc.
+FND	Floor & Decor Holdings, Inc.
+CASY	Casey's General Stores, Inc.
+BBWI	Bath & Body Works, Inc.
+RL	Ralph Lauren Corporation
+TXRH	Texas Roadhouse, Inc.
+LKQ	LKQ Corporation
+KMX	CarMax, Inc.
+SKX	Skechers U.S.A., Inc.
+RIVN	Rivian Automotive, Inc.
+WING	Wingstop Inc.
+GPS	The Gap, Inc.
+SN	SharkNinja, Inc.
+BIRK	Birkenstock Holding plc
+WYNN	Wynn Resorts, Limited
+CAVA	CAVA Group, Inc.
+SCI	Service Corporation International
+ALV	Autoliv, Inc.
+PAG	Penske Automotive Group, Inc.
+CCK	Crown Holdings, Inc.
+TPR	Tapestry, Inc.
+CHDN	Churchill Downs Incorporated
+LEVI	Levi Strauss & Co.
+CROX	Crocs, Inc.
+CHWY	Chewy, Inc.
+MUSA	Murphy USA Inc.
+TPX	Tempur Sealy International, Inc.
+ANF	Abercrombie & Fitch Co.
+GPK	Graphic Packaging Holding Company
+LNW	Light & Wonder, Inc.
+MMYT	MakeMyTrip Limited
+HAS	Hasbro, Inc.
+CART	Maplebear Inc.
+GME	GameStop Corp.
+BWA	BorgWarner Inc.
+GNTX	Gentex Corporation
+MHK	Mohawk Industries, Inc.
+AS	Amer Sports, Inc.
+CZR	Caesars Entertainment, Inc.
+FIVE	Five Below, Inc.
+ETSY	Etsy, Inc.
+DDS	Dillard's, Inc.
+W	Wayfair Inc.
+MTN	Vail Resorts, Inc.
+NCLH	Norwegian Cruise Line Holdings Ltd.
+LEA	Lear Corporation
+LAD	Lithia Motors, Inc.
+HRB	H&R Block, Inc.
+AN	AutoNation, Inc.
+BERY	Berry Global Group, Inc.
+PVH	PVH Corp.
+LOT	Lotus Technology Inc.
+ALSN	Allison Transmission Holdings, Inc.
+BROS	Dutch Bros Inc.
+MTH	Meritage Homes Corporation
+MAT	Mattel, Inc.
+TMHC	Taylor Morrison Home Corporation
+BFAM	Bright Horizons Family Solutions Inc.
+SON	Sonoco Products Company
+IBP	Installed Building Products, Inc.
+REYN	Reynolds Consumer Products Inc.
+WH	Wyndham Hotels & Resorts, Inc.
+SEE	Sealed Air Corporation
+PLNT	Planet Fitness, Inc.
+BC	Brunswick Corporation
+CHH	Choice Hotels International, Inc.
+M	Macy's, Inc.
+KBH	KB Home
+THO	THOR Industries, Inc.
+MOD	Modine Manufacturing Company
+GLBE	Global-E Online Ltd.
+VFC	V.F. Corporation
+RRR	Red Rock Resorts, Inc.
+WHR	Whirlpool Corporation
+COLM	Columbia Sportswear Company
+BYD	Boyd Gaming Corporation
+SLGN	Silgan Holdings Inc.
+RH	RH
+SIG	Signet Jewelers Limited
+HOG	Harley-Davidson, Inc.
+ABG	Asbury Automotive Group, Inc.
+PII	Polaris Inc.
+AEO	American Eagle Outfitters, Inc.
+HGV	Hilton Grand Vacations Inc.
+ASO	Academy Sports and Outdoors, Inc.
+AAP	Advance Auto Parts, Inc.
+GPI	Group 1 Automotive, Inc.
+GOLF	Acushnet Holdings Corp.
+KTB	Kontoor Brands, Inc.
+CPRI	Capri Holdings Limited
+SKY	Skyline Champion Corporation
+SHAK	Shake Shack Inc.
+IGT	International Game Technology PLC
+URBN	Urban Outfitters, Inc.
+TPH	Tri Pointe Homes, Inc.
+BOOT	Boot Barn Holdings, Inc.
+JWN	Nordstrom, Inc.
+WEN	The Wendy's Company
+GT	The Goodyear Tire & Rubber Company
+SG	Sweetgreen, Inc.
+YETI	YETI Holdings, Inc.
+MHO	M/I Homes, Inc.
+RUSHA	Rush Enterprises, Inc.
+LTH	Life Time Group Holdings, Inc.
+PRKS	United Parks & Resorts Inc.
+SHOO	Steven Madden, Ltd.
+VAC	Marriott Vacations Worldwide Corporation
+EAT	Brinker International, Inc.
+TNL	Travel + Leisure Co.
+UAA	Under Armour, Inc.
+ZGN	Ermenegildo Zegna N.V.
+VC	Visteon Corporation
+GEF	Greif, Inc.
+CVCO	Cavco Industries, Inc.
+QS	QuantumScape Corporation
+ACVA	ACV Auctions Inc.
+MODG	Topgolf Callaway Brands Corp.
+DORM	Dorman Products, Inc.
+LCII	LCI Industries
+FTDR	Frontdoor, Inc.
+AIN	Albany International Corp.
+PENN	PENN Entertainment, Inc.
+CCS	Century Communities, Inc.
+DFH	Dream Finders Homes, Inc.
+ARHS	Arhaus, Inc.
+FL	Foot Locker, Inc.
+PATK	Patrick Industries, Inc.
+TRIP	Tripadvisor, Inc.
+ADNT	Adient plc
+CARG	CarGurus, Inc.
+CRI	Carter's, Inc.
+KSS	Kohl's Corporation
+GRBK	Green Brick Partners, Inc.
+LGIH	LGI Homes, Inc.
+PTVE	Pactiv Evergreen Inc.
+MCW	Mister Car Wash, Inc.
+FUN	Cedar Fair, L.P.
+SVV	Savers Value Village, Inc.
+SIX	Six Flags Entertainment Corporation
+MBC	MasterBrand, Inc.
+GTX	Garrett Motion Inc.
+PHIN	PHINIA Inc.
+DAN	Dana Incorporated
+ARCO	Arcos Dorados Holdings Inc.
+VSTO	Vista Outdoor Inc.
+RSI	Rush Street Interactive, Inc.
+OI	O-I Glass, Inc.
+MLKN	MillerKnoll, Inc.
+CAKE	The Cheesecake Factory Incorporated
+BKE	The Buckle, Inc.
+FOXF	Fox Factory Holding Corp.
+SAH	Sonic Automotive, Inc.
+DRVN	Driven Brands Holdings Inc.
+BLMN	Bloomin' Brands, Inc.
+KAR	OPENLANE, Inc.
+BOWL	Bowlero Corp.
+BLBD	Blue Bird Corporation
+WGO	Winnebago Industries, Inc.
+HBI	Hanesbrands Inc.
+VSCO	Victoria's Secret & Co.
+OXM	Oxford Industries, Inc.
+THRM	Gentherm Incorporated
+MSGE	Madison Square Garden Entertainment Corp.
+OSW	OneSpaWorld Holdings Limited
+LZB	La-Z-Boy Incorporated
+PZZA	Papa John's International, Inc.
+LEG	Leggett & Platt, Incorporated
+ODP	The ODP Corporation
+AMWD	American Woodmark Corporation
+GIII	G-III Apparel Group, Ltd.
+RVLV	Revolve Group, Inc.
+CARS	Cars.com Inc.
+LVWR	LiveWire Group, Inc.
+SBH	Sally Beauty Holdings, Inc.
+MCRI	Monarch Casino & Resort, Inc.
+WINA	Winmark Corporation
+GES	Guess?, Inc.
+CAL	Caleres, Inc.
+FWRG	First Watch Restaurant Group, Inc.
+EYE	National Vision Holdings, Inc.
+CNNE	Cannae Holdings, Inc.
+PLYA	Playa Hotels & Resorts N.V.
+KRUS	Kura Sushi USA, Inc.
+WWW	Wolverine World Wide, Inc.
+DESP	Despegar.com, Corp.
+TRS	TriMas Corporation
+CBRL	Cracker Barrel Old Country Store, Inc.
+JACK	Jack in the Box Inc.
+LESL	Leslie's, Inc.
+XPEL	XPEL, Inc.
+HIBB	Hibbett, Inc.
+SCVL	Shoe Carnival, Inc.
+SHCO	Soho House & Co Inc.
+BZH	Beazer Homes USA, Inc.
+CWH	Camping World Holdings, Inc.
+HOV	Hovnanian Enterprises, Inc.
+FIGS	FIGS, Inc.
+AXL	American Axle & Manufacturing Holdings, Inc.
+GDEN	Golden Entertainment, Inc.
+ACEL	Accel Entertainment, Inc.
+BJRI	BJ's Restaurants, Inc.
+MBUU	Malibu Boats, Inc.
+SDA	SunCar Technology Group Inc.
+ETD	Ethan Allen Interiors Inc.
+MNRO	Monro, Inc.
+CURV	Torrid Holdings Inc.
+MLR	Miller Industries, Inc.
+ARKO	Arko Corp.
+BYON	Beyond, Inc.
+SMP	Standard Motor Products, Inc.
+HZO	MarineMax, Inc.
+BWMX	Betterware de México, S.A.P.I. de C.V.
+FLWS	1-800-FLOWERS.COM, Inc.
+PTLO	Portillo's Inc.
+BH	Biglari Holdings Inc.
+EVRI	Everi Holdings Inc.
+DIN	Dine Brands Global, Inc.
+LQDT	Liquidity Services, Inc.
+MOV	Movado Group, Inc.
+MYE	Myers Industries, Inc.
+DBI	Designer Brands Inc.
+PLOW	Douglas Dynamics, Inc.
+KRT	Karat Packaging Inc.
+LEGH	Legacy Housing Corporation
+PACK	Ranpak Holdings Corp.
+BALY	Bally's Corporation
+FNKO	Funko, Inc.
+HVT	Haverty Furniture Companies, Inc.
+CHUY	Chuy's Holdings, Inc.
+AGS	PlayAGS, Inc.
+LE	Lands' End, Inc.
+RICK	RCI Hospitality Holdings, Inc.
+SRI	Stoneridge, Inc.
+LOVE	The Lovesac Company
+XPOF	Xponential Fitness, Inc.
+LIND	Lindblad Expeditions Holdings, Inc.
+CSV	Carriage Services, Inc.
+ONEW	OneWater Marine Inc.
+CRMT	America's Car-Mart, Inc.
+BBW	Build-A-Bear Workshop, Inc.
+ZUMZ	Zumiez Inc.
+DENN	Denny's Corporation
+JOUT	Johnson Outdoors Inc.
+JILL	J.Jill, Inc.
+MCFT	MasterCraft Boat Holdings, Inc.
+GENK	GEN Restaurant Group, Inc.
+MPX	Marine Products Corporation
+SGC	Superior Group of Companies, Inc.
+CYD	China Yuchai International Limited
+CDRO	Codere Online Luxembourg, S.A.
+SNBR	Sleep Number Corporation
+LOCO	El Pollo Loco Holdings, Inc.
+GCO	Genesco Inc.
+FTEL	Fitell Corporation
+TTSH	Tile Shop Holdings, Inc.
+NATH	Nathan's Famous, Inc.
+WEYS	Weyco Group, Inc.
+RCKY	Rocky Brands, Inc.
+GAMB	Gambling.com Group Limited
+MED	Medifast, Inc.
+IRBT	iRobot Corporation
+HBB	Hamilton Beach Brands Holding Company
+UHG	United Homes Group, Inc.
+CLAR	Clarus Corporation
+PBPB	Potbelly Corporation
+VRA	Vera Bradley, Inc.
+INSE	Inspired Entertainment, Inc.
+LCUT	Lifetime Brands, Inc.
+CPS	Cooper-Standard Holdings Inc.
+KFS	Kingsway Financial Services Inc.
+DIBS	1stdibs.Com, Inc.
+CTRN	Citi Trends, Inc.
+JAKK	JAKKS Pacific, Inc.
+RMBL	RumbleOn, Inc.
+VIRC	Virco Mfg. Corporation
+ESCA	Escalade, Incorporated
+CVGI	Commercial Vehicle Group, Inc.
+HOFT	Hooker Furnishings Corporation
+FLXS	Flexsteel Industries, Inc.
+AKA	a.k.a. Brands Holding Corp.
+TLYS	Tilly's, Inc.
+STKS	The ONE Group Hospitality, Inc.
+PLCE	The Children's Place, Inc.
+DOGZ	Dogness (International) Corporation
+LAKE	Lakeland Industries, Inc.
+BSET	Bassett Furniture Industries, Incorporated
+RRGB	Red Robin Gourmet Burgers, Inc.
+KEQU	Kewaunee Scientific Corporation
+CATO	The Cato Corporation
+UFI	Unifi, Inc.
+STRT	Strattec Security Corporation
+CPHC	Canterbury Park Holding Corporation
+AOUT	American Outdoor Brands, Inc.
+MPAA	Motorcar Parts of America, Inc.
+FAT	FAT Brands Inc.
+RENT	Rent the Runway, Inc.
+NHTC	Natural Health Trends Corp.
+LIVE	Live Ventures Incorporated
+CRWS	Crown Crafts, Inc.
+ARKR	Ark Restaurants Corp.
+BDL	Flanigan's Enterprises, Inc.
+INTG	The InterGroup Corporation
+VRM	Vroom, Inc.
+CREV	Carbon Revolution Public Limited Company
+MI	NFT Limited
+UCAR	U Power Limited
+LOGC	ContextLogic Inc.
+VIK	Viking Holdings Ltd
+WMT	Walmart Inc.
+PG	The Procter & Gamble Company
+COST	Costco Wholesale Corporation
+KO	The Coca-Cola Company
+PEP	PepsiCo, Inc.
+PM	Philip Morris International Inc.
+MDLZ	Mondelez International, Inc.
+MO	Altria Group, Inc.
+CL	Colgate-Palmolive Company
+TGT	Target Corporation
+MNST	Monster Beverage Corporation
+KDP	Keurig Dr Pepper Inc.
+STZ	Constellation Brands, Inc.
+KMB	Kimberly-Clark Corporation
+EL	The Estée Lauder Companies Inc.
+KHC	The Kraft Heinz Company
+HSY	The Hershey Company
+GIS	General Mills, Inc.
+KR	The Kroger Co.
+KVUE	Kenvue Inc.
+SYY	Sysco Corporation
+ADM	Archer-Daniels-Midland Company
+DG	Dollar General Corporation
+CHD	Church & Dwight Co., Inc.
+DLTR	Dollar Tree, Inc.
+BF-B	Brown-Forman Corporation
+K	Kellanova
+TSN	Tyson Foods, Inc.
+MKC	McCormick & Company, Incorporated
+CELH	Celsius Holdings, Inc.
+HRL	Hormel Foods Corporation
+CLX	The Clorox Company
+BG	Bunge Global SA
+CAG	Conagra Brands, Inc.
+CPB	Campbell Soup Company
+USFD	US Foods Holding Corp.
+LW	Lamb Weston Holdings, Inc.
+ACI	Albertsons Companies, Inc.
+SJM	The J. M. Smucker Company
+BJ	BJ's Wholesale Club Holdings, Inc.
+TAP	Molson Coors Beverage Company
+PFGC	Performance Food Group Company
+ELF	e.l.f. Beauty, Inc.
+COKE	Coca-Cola Consolidated, Inc.
+COTY	Coty Inc.
+PPC	Pilgrim's Pride Corporation
+SFM	Sprouts Farmers Market, Inc.
+INGR	Ingredion Incorporated
+BRBR	BellRing Brands, Inc.
+POST	Post Holdings, Inc.
+DAR	Darling Ingredients Inc.
+FRPT	Freshpet, Inc.
+LANC	Lancaster Colony Corporation
+OLLI	Ollie's Bargain Outlet Holdings, Inc.
+FLO	Flowers Foods, Inc.
+FIZZ	National Beverage Corp.
+LOPE	Grand Canyon Education, Inc.
+HIMS	Hims & Hers Health, Inc.
+SMPL	The Simply Good Foods Company
+IPAR	Inter Parfums, Inc.
+SAM	The Boston Beer Company, Inc.
+GHC	Graham Holdings Company
+NWL	Newell Brands Inc.
+JJSF	J&J Snack Foods Corp.
+TBBB	BBB Foods Inc.
+CALM	Cal-Maine Foods, Inc.
+LRN	Stride, Inc.
+NOMD	Nomad Foods Limited
+STRA	Strategic Education, Inc.
+CENT	Central Garden & Pet Company
+SPB	Spectrum Brands Holdings, Inc.
+PSMT	PriceSmart, Inc.
+HELE	Helen of Troy Limited
+LAUR	Laureate Education, Inc.
+ATGE	Adtalem Global Education Inc.
+GO	Grocery Outlet Holding Corp.
+TR	Tootsie Roll Industries, Inc.
+EPC	Edgewell Personal Care Company
+THS	TreeHouse Foods, Inc.
+ANDE	The Andersons, Inc.
+DNUT	Krispy Kreme, Inc.
+WMK	Weis Markets, Inc.
+VITL	Vital Farms, Inc.
+VGR	Vector Group Ltd.
+MGPI	MGP Ingredients, Inc.
+COCO	The Vita Coco Company, Inc.
+KLG	WK Kellogg Co
+CHEF	The Chefs' Warehouse, Inc.
+UTZ	Utz Brands, Inc.
+PRDO	Perdoceo Education Corporation
+AFYA	Afya Limited
+IMKTA	Ingles Markets, Incorporated
+UDMY	Udemy, Inc.
+BRCC	BRC Inc.
+COUR	Coursera, Inc.
+NAPA	The Duckhorn Portfolio, Inc.
+UVV	Universal Corporation
+DOLE	Dole plc
+JBSS	John B. Sanfilippo & Son, Inc.
+FDP	Fresh Del Monte Produce Inc.
+HLF	Herbalife Ltd.
+AGRO	Adecoagro S.A.
+WEST	Westrock Coffee Company
+USNA	USANA Health Sciences, Inc.
+UTI	Universal Technical Institute, Inc.
+AVO	Mission Produce, Inc.
+BGS	B&G Foods, Inc.
+UNFI	United Natural Foods, Inc.
+EWCZ	European Wax Center, Inc.
+HAIN	The Hain Celestial Group, Inc.
+SPTN	SpartanNash Company
+NUS	Nu Skin Enterprises, Inc.
+TPB	Turning Point Brands, Inc.
+BYND	Beyond Meat, Inc.
+NGVC	Natural Grocers by Vitamin Cottage, Inc.
+FC	Franklin Covey Co.
+CVGW	Calavo Growers, Inc.
+VLGEA	Village Super Market, Inc.
+SENEA	Seneca Foods Corporation
+ISPR	Ispire Technology Inc.
+LINC	Lincoln Educational Services Corporation
+LMNR	Limoneira Company
+VTRU	Vitru Limited
+APEI	American Public Education, Inc.
+AFRI	Forafric Global PLC
+NATR	Nature's Sunshine Products, Inc.
+MAMA	Mama's Creations, Inc.
+LWAY	Lifeway Foods, Inc.
+ALCO	Alico, Inc.
+BRLS	Borealis Foods Inc.
+SOWG	Sow Good Inc.
+FTLF	FitLife Brands, Inc.
+WILC	G. Willi-Food International Ltd.
+ACU	Acme United Corporation
+LFVN	LifeVantage Corporation
+BRID	Bridgford Foods Corporation
+DIT	AMCON Distributing Company
+SKIL	Skillsoft Corp.
+UG	United-Guardian, Inc.
+NAII	Natural Alternatives International, Inc.
+MTEX	Mannatech, Incorporated
+GSUN	Golden Sun Health Technology Group Limited
