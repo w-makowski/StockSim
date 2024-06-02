@@ -12,19 +12,24 @@ class Stock(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String, unique=True, nullable=False)
     symbol = Column(String, unique=True, nullable=False)
-    price = Column(Float, nullable=False)
-    volume = Column(Integer, nullable=False)
+    prev_day_close_price = Column(Float, nullable=False)
+    current_price = Column(Float, nullable=False)
+    current_volume = Column(Integer, nullable=False)
+    current_datetime = Column(DateTime, default=datetime.utcnow(), nullable=False)
     transactions = relationship("Transaction", back_populates="stock")
 
-    def __init__(self, name, symbol, price, volume):
+    def __init__(self, name, symbol, prev_day_close_price, current_price, current_volume, current_datatime):
         super().__init__()
         self.name = name
         self.symbol = symbol
-        self.price = price
-        self.volume = volume
+        self.prev_day_close_price = prev_day_close_price
+        self.current_price = current_price
+        self.current_volume = current_volume
+        self.current_datatime = current_datatime
 
     def __repr__(self):
-        return f"<Stock(name={self.name}, symbol={self.symbol}, price={self.price}, volume={self.volume})>"
+        return (f"<Stock(name={self.name}, symbol={self.symbol}, prev_day_close_price={self.prev_day_close_price}, "
+                f"current_price={self.current_price}, volume={self.current_volume})>")
 
 
 class TransactionType(enum.Enum):
