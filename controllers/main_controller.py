@@ -17,6 +17,7 @@ class MainController:
         self.main_window = main_window
         self.user_service = UserService()
         self.market_service = MarketService()
+        self.market_service.daily_stock_db_update()
 
         self.stack = QStackedWidget(self.main_window)
         self.main_window.setCentralWidget(self.stack)

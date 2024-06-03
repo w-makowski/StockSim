@@ -144,17 +144,19 @@ class StockView(QWidget):
     def set_stock_name(self, stock_symbol, stock_name):
         self.stock_name_label.setText(f'{stock_name} ({stock_symbol})')
 
-    def set_stock_value(self, stock_value, value_diff, value_diff_proc):
+    def set_stock_value(self, stock_value, value_diff, value_diff_percent):
         if value_diff < 0:
-            sign = '-'
+            sign = ''
             self.stock_diff_label.setStyleSheet("color: red;")
         else:
             sign = '+'
             if value_diff == 0:
-                self.stock_name_label.setStyleSheet("color: white;")
+                self.stock_diff_label.setStyleSheet("color: white;")
             else:
                 self.stock_diff_label.setStyleSheet("color: green;")
-        self.stock_value_label.setText(f'${stock_value} {sign}{value_diff} ({sign}{value_diff_proc}%)')
+        value_diff_percent = round(value_diff_percent, 2)
+        self.stock_value_label.setText(f'${stock_value}')
+        self.stock_diff_label.setText(f'{sign}{value_diff} ({sign}{value_diff_percent}%)')
 
     def set_stock_volume(self, stock_volume):
         self.current_volume_label.setText(f"Volume: {stock_volume}")

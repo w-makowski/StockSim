@@ -54,22 +54,20 @@ class BuyWindow(QDialog):
         self.stock_total_price.setFont(font)
 
         self.cancel_button = QPushButton("Cancel", self)
-        self.accept_button = QPushButton("Accept", self)
-        self.accept_button.setEnabled(False)
+        self.buy_button = QPushButton("Buy", self)
+        self.buy_button.setEnabled(False)
 
         self.buttons_layout = QHBoxLayout()
         self.buttons_layout.addWidget(self.cancel_button)
-        self.buttons_layout.addWidget(self.accept_button)
+        self.buttons_layout.addWidget(self.buy_button)
         self.buttons_layout.setAlignment(Qt.AlignBottom)
 
         frame_layout.addWidget(self.stock_name_label, alignment=Qt.AlignTop)
         frame_layout.addSpacing(45)
         frame_layout.addWidget(self.stock_current_price_label)
-        # frame_layout.addSpacing(110)
         frame_layout.addWidget(self.stock_current_volume_label)
         frame_layout.addSpacing(20)
         frame_layout.addWidget(self.select_amount_label, alignment=Qt.AlignHCenter)
-        #frame_layout.addSpacing(110)
         frame_layout.addWidget(self.stock_amount_selector, alignment=Qt.AlignHCenter)
         frame_layout.addSpacing(30)
         frame_layout.addWidget(self.stock_total_price, alignment=Qt.AlignHCenter)
@@ -85,13 +83,12 @@ class BuyWindow(QDialog):
 
         self.setLayout(layout)
 
-    def toggle_accept_button(self):
-        condition = int(self.stock_amount_selector.value()) > 0 #and
-                     #int(self.stock_current_volume_label.text().split(" ")[2]) > 0)
-        self.accept_button.setEnabled(condition)
+    def toggle_buy_button(self):
+        condition = int(self.stock_amount_selector.value()) > 0
+        self.buy_button.setEnabled(condition)
 
     def handle_value_changed(self):
-        self.toggle_accept_button()
+        self.toggle_buy_button()
         self.buy_controller.calculate_total_price(self.stock_amount_selector.value())
 
     def set_controller(self, buy_controller):
@@ -99,6 +96,7 @@ class BuyWindow(QDialog):
 
     def connect_buttons(self):
         self.cancel_button.clicked.connect(self.close)
+        self.buy_button.clicked.connect(self.accept_payment)
 
     def set_stock_current_price(self, stock_price):
         self.stock_current_price_label.setText(f"Current price:\t${stock_price}")
@@ -118,3 +116,11 @@ class BuyWindow(QDialog):
 
     def show_purchase_successful_message(self):
         QMessageBox().warning(self, "Successful purchase", "Successful purchase!")
+
+    def refresh_stock_amount_selector(self):
+        self.stock_amount_selector.setMinimum(0)
+        self.stock_amount_selector.setSingleStep(1)
+        self.stock_amount_selector.setValue(0)
+
+    def accept_payment(self):
+        self.buy_controller.accept_purchase(self.stock_amount_selector.value(), self.buy_controller.current_price)
