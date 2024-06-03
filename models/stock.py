@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Float, ForeignKey, DateTime, Enum
+from sqlalchemy import Column, Integer, String, Float, ForeignKey, DateTime, Enum, DECIMAL, BigInteger
 from sqlalchemy.orm import DeclarativeBase
 from sqlalchemy.orm import relationship
 from models.basic_base import Base
@@ -12,20 +12,20 @@ class Stock(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String, unique=True, nullable=False)
     symbol = Column(String, unique=True, nullable=False)
-    prev_day_close_price = Column(Float, nullable=False)
-    current_price = Column(Float, nullable=False)
-    current_volume = Column(Integer, nullable=False)
+    prev_day_close_price = Column(DECIMAL(12, 2), default=0.00, nullable=False)
+    current_price = Column(DECIMAL(12, 2), default=0.00, nullable=False)
+    current_volume = Column(BigInteger, nullable=False)
     current_datetime = Column(DateTime, default=datetime.utcnow(), nullable=False)
     transactions = relationship("Transaction", back_populates="stock")
 
-    def __init__(self, name, symbol, prev_day_close_price, current_price, current_volume, current_datatime):
+    def __init__(self, name, symbol, prev_day_close_price, current_price, current_volume, current_datetime):
         super().__init__()
         self.name = name
         self.symbol = symbol
         self.prev_day_close_price = prev_day_close_price
         self.current_price = current_price
         self.current_volume = current_volume
-        self.current_datatime = current_datatime
+        self.current_datetime = current_datetime
 
     def __repr__(self):
         return (f"<Stock(name={self.name}, symbol={self.symbol}, prev_day_close_price={self.prev_day_close_price}, "
@@ -44,7 +44,7 @@ class Transaction(Base):
     user_id = Column(Integer, ForeignKey('users.id'), nullable=False)
     stock_id = Column(Integer, ForeignKey('stock.id'), nullable=False)
     amount = Column(Integer, nullable=False)
-    price = Column(Integer, nullable=False)
+    price = Column(DECIMAL(12, 2), default=0.00, nullable=False)
     transaction_type = Column(Enum(TransactionType), nullable=False)
     transaction_datetime = Column(DateTime, default=datetime.utcnow(), nullable=False)
     user = relationship("User", back_populates="transactions")
