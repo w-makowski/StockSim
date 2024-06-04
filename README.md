@@ -6,7 +6,7 @@ The Stock Simulation App is a desktop application for simulating stock market ac
 ## Features
 - **View Stock Charts**: Display stock data over various time periods (1 day, 5 days, 1 month, etc.).
 - **Manage Portfolio**: Buy and sell stocks, track your investments.
-- **Top Gainers**: See the stocks with the highest gains over the past day or five days.
+- **Top Gainers**: See the stocks with the highest gains over the past day.
 
 
 ## Acknowledgments
