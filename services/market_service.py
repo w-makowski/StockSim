@@ -22,9 +22,9 @@ class MarketService:
             print(f"Error fetching stock data: {e}")
             return None
 
-    def fetch_stocks_data_for_db(self, stocks):
+    def fetch_stocks_data_for_db(self, stocks, period='5d', interval='1d'):
         tickers = ' '.join(stocks)
-        data = yf.Tickers(tickers).history(period='5d')
+        data = yf.Tickers(tickers).history(period=period, interval=interval)
         return data
 
     def update_stocks_in_database(self):
@@ -60,7 +60,7 @@ class MarketService:
                     stock.prev_day_close_price = Decimal(prev_day_close_price).quantize(Decimal('0.01'), rounding=ROUND_HALF_UP)
                     stock.current_price = Decimal(current_price).quantize(Decimal('0.01'), rounding=ROUND_HALF_UP)
                     stock.current_volume = int(current_volume)
-                    stock.current_datatime = current_datetime
+                    stock.current_datetime = current_datetime
                 else:
                     print('Something wrong')
             session.commit()
@@ -86,7 +86,6 @@ class MarketService:
         session = SessionLocal()
         try:
             last_update_date = session.query(Stock.current_datetime).filter(Stock.id == 1).first()[0]
-            # self.update_stocks_in_database()
             if datetime.utcnow().date() == last_update_date.date():
                 print("Database updated")
                 return False

@@ -29,7 +29,7 @@ class Stock(Base):
 
     def __repr__(self):
         return (f"<Stock(name={self.name}, symbol={self.symbol}, prev_day_close_price={self.prev_day_close_price}, "
-                f"current_price={self.current_price}, volume={self.current_volume})>")
+                f"current_price={self.current_price}, volume={self.current_volume}), current_datetime={self.current_datetime}>")
 
 
 class TransactionType(enum.Enum):

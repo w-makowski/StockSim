@@ -36,7 +36,6 @@ class MainView(QWidget):
             self.logo_label.setAlignment(Qt.AlignHCenter)
 
         self.app_name_font = QFont()
-        #self.app_name_font.setFamily("Verdana Pro Cond Semibold")
         self.app_name_font.setPointSize(120)
         self.app_name_font.setBold(True)
 
@@ -48,7 +47,6 @@ class MainView(QWidget):
         self.logo_layout = QVBoxLayout()
         self.logo_layout.addWidget(self.logo_label, alignment=Qt.AlignCenter)
         self.logo_layout.addWidget(self.app_name_label, alignment=Qt.AlignCenter)
-        #self.logo_layout.setAlignment(Qt.AlignCenter)
 
         self.version_label = QLabel(f'Version: {VERSION}', self)
         self.version_label.setSizePolicy(QSizePolicy.Fixed, QSizePolicy.Fixed)
